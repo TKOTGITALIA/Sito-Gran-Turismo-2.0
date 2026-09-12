@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Auto di Gran Turismo</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1 class="site-title">GRAN TURISMO DATABASE</h1>
+    <nav class="game-tabs">
+      <button class="tab-btn active" data-game="gt7">Gran Turismo 7</button>
+      <button class="tab-btn" data-game="mfgt">My First Gran Turismo</button>
+    </nav>
+  </header>
+
+  <section class="controls-container">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Cerca auto o marca...">
+    </div>
+    <div class="filter-box">
+      <select id="brandFilter">
+        <option value="">Tutte le marche</option>
+      </select>
+    </div>
+  </section>
+
+  <main class="main-content">
+    <div id="carsGrid" class="cars-grid">
+    </div>
+  </main>
+
+  <div id="carModal" class="modal-overlay">
+    <div class="modal-container">
+      <button id="modalCloseBtn" class="modal-close">&times;</button>
+      <div id="modalContent" class="modal-body">
+      </div>
+    </div>
+  </div>
+<div id="zoomModal" class="zoom-modal">
+  <div class="zoom-content">
+    <button id="zoomCloseBtn" class="zoom-close">&times;</button>
+    <button id="zoomPrevBtn" class="zoom-btn prev">&#10094;</button>
+    <img id="zoomImage" src="" alt="Auto ingrandita">
+    <button id="zoomNextBtn" class="zoom-btn next">&#10095;</button>
+  </div>
+</div>
+  <script src="script.js"></script>
+</body>
+</html>
