@@ -2,6 +2,7 @@
   {
     "carId": "car1932",
     "nome": "1500 Biposto Bertone B.A.T 1 '52",
+    "marca": "Abarth",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1932",
     "immagini": [
       "car1932.png",
@@ -14,6 +15,7 @@
   {
     "carId": "car1973",
     "nome": "Abarth 500 '09",
+    "marca": "Abarth",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1973",
     "immagini": [
       "car1973.png",
@@ -26,6 +28,7 @@
   {
     "carId": "car3438",
     "nome": "Abarth 595 SS '70",
+    "marca": "Abarth",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3438",
     "immagini": [
       "car3438.png",
@@ -38,6 +41,7 @@
   {
     "carId": "car3579",
     "nome": "AFEELA 1 '26",
+    "marca": "AFEELA",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3579",
     "immagini": [
       "car3579.png",
@@ -51,6 +55,7 @@
   {
     "carId": "car3546",
     "nome": "AFEELA Prototype 2024",
+    "marca": "AFEELA",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3546",
     "immagini": [
       "car3546.png",
@@ -64,6 +69,7 @@
   {
     "carId": "car365",
     "nome": "155 2.5 V6 TI '93",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car365",
     "immagini": [
       "car365.png",
@@ -77,6 +83,7 @@
   {
     "carId": "car2136",
     "nome": "4C '14",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2136",
     "immagini": [
       "car2136.png",
@@ -89,6 +96,7 @@
   {
     "carId": "car3185",
     "nome": "4C Gr.3",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3185",
     "immagini": [
       "car3185.png",
@@ -101,6 +109,7 @@
   {
     "carId": "car3299",
     "nome": "4C Gr.3 Road Car",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3299",
     "immagini": [
       "car3299.png",
@@ -113,9 +122,11 @@
   {
     "carId": "car2166",
     "nome": "4C Gr.4",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2166",
     "immagini": [
       "car2166.png",
+      "car2166_1_01-ltgWNWet.jpg",
       "car2166_2_01-ZYhWyjWu.jpg",
       "car2166_2_02-eB7Bwe1v.jpg",
       "car2166_3_01-B5QRSwd_.jpg"
@@ -124,6 +135,7 @@
   {
     "carId": "car3415",
     "nome": "8C 2900B Touring Berlinetta '38",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3415",
     "immagini": [
       "car3415.png",
@@ -136,6 +148,7 @@
   {
     "carId": "car1578",
     "nome": "8C Competizione '08",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1578",
     "immagini": [
       "car1578.png",
@@ -148,9 +161,11 @@
   {
     "carId": "car1645",
     "nome": "GIULIA TZ2 carrozzata da ZAGATO '65",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1645",
     "immagini": [
       "car1645.png",
+      "car1645_1_01-ORxzn_85.jpg",
       "car1645_2_01-BsxTu-4K.jpg",
       "car1645_2_02-DMqut3C-.jpg",
       "car1645_3_01-BSVWzn3A.jpg"
@@ -159,17 +174,21 @@
   {
     "carId": "car3411",
     "nome": "Giulia GTAm '20",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3411",
     "immagini": [
       "car3411.png",
+      "car3411_1_01-CYH8bEjq.jpg",
       "car3411_1_02-D8Rs40ea.jpg",
       "car3411_2_01-C9DAp7uG.jpg",
-      "car3411_2_02-B7og6c5f.jpg"
+      "car3411_2_02-B7og6c5f.jpg",
+      "car3411_3_01-YrpBBo-M.jpg"
     ]
   },
   {
     "carId": "car3530",
     "nome": "Giulia Sprint GT Veloce '67",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3530",
     "immagini": [
       "car3530.png",
@@ -181,6 +200,7 @@
   {
     "carId": "car1933",
     "nome": "MiTo '09",
+    "marca": "Alfa Romeo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1933",
     "immagini": [
       "car1933.png",
@@ -193,28 +213,33 @@
   {
     "carId": "car3337",
     "nome": "A110 '17",
+    "marca": "Alpine",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3337",
     "immagini": [
       "car3337.png",
       "car3337_1_01-B9y0c9_A.jpg",
       "car3337_2_01-ztbigWGw.jpg",
-      "car3337_2_02-D7UCWJTQ.jpg"
+      "car3337_2_02-D7UCWJTQ.jpg",
+      "car3337_3_01-BHHtKk2Y.jpg"
     ]
   },
   {
     "carId": "car1796",
     "nome": "A110 '72",
+    "marca": "Alpine",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1796",
     "immagini": [
       "car1796.png",
       "car1796_1_01-DVcqAAUa.jpg",
       "car1796_2_01-ZcTYmZKb.jpg",
-      "car1796_2_02-D7YV9FfT.jpg"
+      "car1796_2_02-D7YV9FfT.jpg",
+      "car1796_3_01-BFS9tz0m.jpg"
     ]
   },
   {
     "carId": "car3457",
     "nome": "A220 Race Car '68",
+    "marca": "Alpine",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3457",
     "immagini": [
       "car3457.png",
@@ -227,6 +252,7 @@
   {
     "carId": "car2112",
     "nome": "Alpine VGT",
+    "marca": "Alpine",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2112",
     "immagini": [
       "car2112.png",
@@ -239,6 +265,7 @@
   {
     "carId": "car3187",
     "nome": "Alpine VGT '17",
+    "marca": "Alpine",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3187",
     "immagini": [
       "car3187.png",
@@ -251,6 +278,7 @@
   {
     "carId": "car2116",
     "nome": "Alpine VGT Race",
+    "marca": "Alpine",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2116",
     "immagini": [
       "car2116.png",
@@ -263,6 +291,7 @@
   {
     "carId": "car3388",
     "nome": "300 SEL 6.8 AMG '71",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3388",
     "immagini": [
       "car3388.png",
@@ -275,20 +304,24 @@
   {
     "carId": "car2170",
     "nome": "A 45 AMG '13",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2170",
     "immagini": [
       "car2170.png",
       "car2170_1_01-DVyjx1ot.jpg",
       "car2170_2_01-CQ_CMTpr.jpg",
-      "car2170_2_02-BqeMBLxg.jpg"
+      "car2170_2_02-BqeMBLxg.jpg",
+      "car2170_3_01-AwirylZ6.jpg"
     ]
   },
   {
     "carId": "car3458",
     "nome": "Mercedes-AMG C 63 S '15",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3458",
     "immagini": [
       "car3458.png",
+      "car3458_1_01-zlVMKkup.jpg",
       "car3458_2_01-BZBvYkcn.jpg",
       "car3458_2_02-Bc8CrUmE.jpg",
       "car3458_3_01-C8oz5zjg.jpg"
@@ -297,6 +330,7 @@
   {
     "carId": "car3485",
     "nome": "Mercedes-AMG GT Black Series '20",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3485",
     "immagini": [
       "car3485.png",
@@ -310,6 +344,7 @@
   {
     "carId": "car3416",
     "nome": "Mercedes-AMG GT R '17",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3416",
     "immagini": [
       "car3416.png",
@@ -322,9 +357,11 @@
   {
     "carId": "car2149",
     "nome": "Mercedes-AMG GT S '15",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2149",
     "immagini": [
       "car2149.png",
+      "car2149_1_01-DxRTQ59_.jpg",
       "car2149_2_01-BT8mrmB1.jpg",
       "car2149_2_02-BHaZihPn.jpg",
       "car2149_3_01-CiHhFjp8.jpg"
@@ -333,6 +370,7 @@
   {
     "carId": "car3210",
     "nome": "Mercedes-AMG GT Safety Car",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3210",
     "immagini": [
       "car3210.png",
@@ -345,10 +383,12 @@
   {
     "carId": "car3224",
     "nome": "Mercedes-AMG GT3 '16",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3224",
     "immagini": [
       "car3224.png",
       "car3224_1_01-CpN9_Eu-.jpg",
+      "car3224_2_01-CkjNBGs-.jpg",
       "car3224_2_02-BCWF6uxc.jpg",
       "car3224_3_01-CuxVkIDN.jpg"
     ]
@@ -356,18 +396,21 @@
   {
     "carId": "car3531",
     "nome": "Mercedes-AMG GT3 '20",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3531",
     "immagini": [
       "car3531.png",
       "car3531_1_01-BTb6LrB0.jpg",
       "car3531_1_02-CVfJOtkg.jpg",
       "car3531_2_01-D2U7FFot.jpg",
-      "car3531_2_02-Du967xOy.jpg"
+      "car3531_2_02-Du967xOy.jpg",
+      "car3531_3_01-DM4V_sV7.jpg"
     ]
   },
   {
     "carId": "car2055",
     "nome": "Mercedes-Benz AMG VGT",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2055",
     "immagini": [
       "car2055.png",
@@ -380,6 +423,7 @@
   {
     "carId": "car2076",
     "nome": "Mercedes-Benz AMG VGT Racing Series",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2076",
     "immagini": [
       "car2076.png",
@@ -391,6 +435,7 @@
   {
     "carId": "car1507",
     "nome": "SLS AMG '10",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1507",
     "immagini": [
       "car1507.png",
@@ -403,17 +448,20 @@
   {
     "carId": "car1797",
     "nome": "SLS AMG GT3 '11",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1797",
     "immagini": [
       "car1797.png",
       "car1797_1_01-D3CyOQEn.jpg",
       "car1797_2_01-8mkwHNTS.jpg",
-      "car1797_2_02-CbfBM5x8.jpg"
+      "car1797_2_02-CbfBM5x8.jpg",
+      "car1797_3_01-CsCIIKvE.jpg"
     ]
   },
   {
     "carId": "car3192",
     "nome": "SLS AMG Gr.4",
+    "marca": "AMG",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3192",
     "immagini": [
       "car3192.png",
@@ -426,6 +474,7 @@
   {
     "carId": "car1549",
     "nome": "Amuse NISMO 380RS Super Leggera",
+    "marca": "Amuse",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1549",
     "immagini": [
       "car1549.png",
@@ -438,6 +487,7 @@
   {
     "carId": "car1433",
     "nome": "Amuse S2000 GT1 Turbo",
+    "marca": "Amuse",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1433",
     "immagini": [
       "car1433.png",
@@ -450,6 +500,7 @@
   {
     "carId": "car3343",
     "nome": "DB11 '16",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3343",
     "immagini": [
       "car3343.png",
@@ -462,6 +513,7 @@
   {
     "carId": "car3363",
     "nome": "DB3S '53",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3363",
     "immagini": [
       "car3363.png",
@@ -474,6 +526,7 @@
   {
     "carId": "car3445",
     "nome": "DB5 '64",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3445",
     "immagini": [
       "car3445.png",
@@ -486,6 +539,7 @@
   {
     "carId": "car3394",
     "nome": "DBR9 GT1 '10",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3394",
     "immagini": [
       "car3394.png",
@@ -498,6 +552,7 @@
   {
     "carId": "car2103",
     "nome": "DP-100 VGT",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2103",
     "immagini": [
       "car2103.png",
@@ -509,6 +564,7 @@
   {
     "carId": "car1898",
     "nome": "One-77 '11",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1898",
     "immagini": [
       "car1898.png",
@@ -521,9 +577,11 @@
   {
     "carId": "car2131",
     "nome": "V12 Vantage GT3 '12",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2131",
     "immagini": [
       "car2131.png",
+      "car2131_1_01-LjsTEFVa.jpg",
       "car2131_2_01-DPMwwraE.jpg",
       "car2131_2_02-Ww9nvzPJ.jpg",
       "car2131_3_01-CFLEz93G.jpg"
@@ -532,9 +590,11 @@
   {
     "carId": "car2157",
     "nome": "V8 Vantage Gr.4",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2157",
     "immagini": [
       "car2157.png",
+      "car2157_1_01-BnAZZtIR.jpg",
       "car2157_2_01-Ctnqpkkx.jpg",
       "car2157_2_02-bn97WFTE.jpg",
       "car2157_3_01-DRelFMsd.jpg"
@@ -543,6 +603,7 @@
   {
     "carId": "car2175",
     "nome": "V8 Vantage S '15",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2175",
     "immagini": [
       "car2175.png",
@@ -555,6 +616,7 @@
   {
     "carId": "car3532",
     "nome": "Valkyrie '21",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3532",
     "immagini": [
       "car3532.png",
@@ -568,6 +630,7 @@
   {
     "carId": "car3447",
     "nome": "Vantage '18",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3447",
     "immagini": [
       "car3447.png",
@@ -581,6 +644,7 @@
   {
     "carId": "car3309",
     "nome": "Vulcan '16",
+    "marca": "Aston Martin",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3309",
     "immagini": [
       "car3309.png",
@@ -593,9 +657,11 @@
   {
     "carId": "car3314",
     "nome": "Audi VGT",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3314",
     "immagini": [
       "car3314.png",
+      "car3314_1_01-prHlPDsM.jpg",
       "car3314_2_01-CT5VdQZB.jpg",
       "car3314_2_02-CT1y60TK.jpg",
       "car3314_3_01-4QjiQc2K.jpg"
@@ -604,6 +670,7 @@
   {
     "carId": "car3351",
     "nome": "Audi e-tron VGT",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3351",
     "immagini": [
       "car3351.png",
@@ -616,17 +683,20 @@
   {
     "carId": "car3334",
     "nome": "R18 '16",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3334",
     "immagini": [
       "car3334.png",
       "car3334_1_01-BgQQB7Di.jpg",
       "car3334_2_01-FhklOJCw.jpg",
-      "car3334_2_02-DahIox0z.jpg"
+      "car3334_2_02-DahIox0z.jpg",
+      "car3334_3_01-BiYpJdNs.jpg"
     ]
   },
   {
     "carId": "car1965",
     "nome": "R18 TDI '11",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1965",
     "immagini": [
       "car1965.png",
@@ -639,6 +709,7 @@
   {
     "carId": "car1365",
     "nome": "R8 4.2 '07",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1365",
     "immagini": [
       "car1365.png",
@@ -651,9 +722,11 @@
   {
     "carId": "car3412",
     "nome": "R8 Coupé V10 plus '16",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3412",
     "immagini": [
       "car3412.png",
+      "car3412_1_01-BiOYuVUQ.jpg",
       "car3412_1_02-BFuZq4Yn.jpg",
       "car3412_2_01-DvUzdRU-.jpg",
       "car3412_2_02-DE8XXRNE.jpg",
@@ -663,6 +736,7 @@
   {
     "carId": "car2143",
     "nome": "R8 LMS '15",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2143",
     "immagini": [
       "car2143.png",
@@ -675,6 +749,7 @@
   {
     "carId": "car3405",
     "nome": "R8 LMS Evo '19",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3405",
     "immagini": [
       "car3405.png",
@@ -687,6 +762,7 @@
   {
     "carId": "car3523",
     "nome": "RS 5 Turbo DTM '19",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3523",
     "immagini": [
       "car3523.png",
@@ -700,6 +776,7 @@
   {
     "carId": "car1927",
     "nome": "Sport quattro S1 Pikes Peak '87",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1927",
     "immagini": [
       "car1927.png",
@@ -712,6 +789,7 @@
   {
     "carId": "car959",
     "nome": "TT Coupé 3.2 quattro '03",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car959",
     "immagini": [
       "car959.png",
@@ -724,6 +802,7 @@
   {
     "carId": "car3298",
     "nome": "TT Cup '16",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3298",
     "immagini": [
       "car3298.png",
@@ -736,6 +815,7 @@
   {
     "carId": "car1541",
     "nome": "TTS Coupé '09",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1541",
     "immagini": [
       "car1541.png",
@@ -749,6 +829,7 @@
   {
     "carId": "car2169",
     "nome": "TTS Coupé '14",
+    "marca": "Audi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2169",
     "immagini": [
       "car2169.png",
@@ -761,6 +842,7 @@
   {
     "carId": "car3442",
     "nome": "A112 Abarth '85",
+    "marca": "Autobianchi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3442",
     "immagini": [
       "car3442.png",
@@ -773,9 +855,12 @@
   {
     "carId": "car3409",
     "nome": "Mono '16",
+    "marca": "BAC",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3409",
     "immagini": [
       "car3409.png",
+      "car3409_1_01-Cgc6fQ2X.jpg",
+      "car3409_1_02-BixK9Bol.jpg",
       "car3409_2_01-DwSrHXKY.jpg",
       "car3409_2_02-BhkKU8q_.jpg",
       "car3409_3_01-BIAR350X.jpg"
@@ -784,6 +869,7 @@
   {
     "carId": "car3454",
     "nome": "3.0 CSL '71",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3454",
     "immagini": [
       "car3454.png",
@@ -796,6 +882,7 @@
   {
     "carId": "car3422",
     "nome": "3.0 CSL '73",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3422",
     "immagini": [
       "car3422.png",
@@ -808,6 +895,7 @@
   {
     "carId": "car2087",
     "nome": "BMW VGT",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2087",
     "immagini": [
       "car2087.png",
@@ -819,9 +907,12 @@
   {
     "carId": "car3604",
     "nome": "M Hybrid V8 '25",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3604",
     "immagini": [
       "car3604.png",
+      "car3604_1_01-BmlUWB2a.jpg",
+      "car3604_1_02-kgr-s6O5.jpg",
       "car3604_2_01-BWL4RRwy.jpg",
       "car3604_2_02-DwG5NsPh.jpg",
       "car3604_3_01-Bo40B0Lf.jpg"
@@ -830,6 +921,7 @@
   {
     "carId": "car3483",
     "nome": "M2 Competition '18",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3483",
     "immagini": [
       "car3483.png",
@@ -843,6 +935,7 @@
   {
     "carId": "car3389",
     "nome": "M3 '03",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3389",
     "immagini": [
       "car3389.png",
@@ -855,17 +948,20 @@
   {
     "carId": "car1399",
     "nome": "M3 '07",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1399",
     "immagini": [
       "car1399.png",
       "car1399_1_01-C9N689oF.jpg",
       "car1399_2_01-CkG5NHEO.jpg",
-      "car1399_2_02-YtOSYYGY.jpg"
+      "car1399_2_02-YtOSYYGY.jpg",
+      "car1399_3_01-BV6qq-NP.jpg"
     ]
   },
   {
     "carId": "car3453",
     "nome": "M3 '89",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3453",
     "immagini": [
       "car3453.png",
@@ -878,6 +974,7 @@
   {
     "carId": "car3551",
     "nome": "M3 '97",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3551",
     "immagini": [
       "car3551.png",
@@ -891,6 +988,7 @@
   {
     "carId": "car1904",
     "nome": "M3 GT '11",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1904",
     "immagini": [
       "car1904.png",
@@ -903,17 +1001,20 @@
   {
     "carId": "car3344",
     "nome": "M3 Sport Evolution '89",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3344",
     "immagini": [
       "car3344.png",
       "car3344_1_01-l2oj8auJ.jpg",
       "car3344_2_01-CV2a1Ew5.jpg",
+      "car3344_2_02-xYs9BU3c.jpg",
       "car3344_3_01-f04DlPJ2.jpg"
     ]
   },
   {
     "carId": "car2074",
     "nome": "M4 '14",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2074",
     "immagini": [
       "car2074.png",
@@ -926,6 +1027,7 @@
   {
     "carId": "car3245",
     "nome": "M4 Gr.4",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3245",
     "immagini": [
       "car3245.png",
@@ -938,6 +1040,7 @@
   {
     "carId": "car3209",
     "nome": "M4 Safety Car",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3209",
     "immagini": [
       "car3209.png",
@@ -950,6 +1053,7 @@
   {
     "carId": "car3218",
     "nome": "M6 GT3 Endurance Model '16",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3218",
     "immagini": [
       "car3218.png",
@@ -962,6 +1066,7 @@
   {
     "carId": "car3221",
     "nome": "M6 GT3 Sprint Model '16",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3221",
     "immagini": [
       "car3221.png",
@@ -974,18 +1079,21 @@
   {
     "carId": "car216",
     "nome": "McLaren F1 GTR Race Car '97",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car216",
     "immagini": [
       "car216.png",
       "car216_1_01-BZkx6bvh.jpg",
       "car216_1_02-DiOeoima.jpg",
       "car216_2_01-CNOanm-Q.jpg",
-      "car216_2_02-CKkec3PJ.jpg"
+      "car216_2_02-CKkec3PJ.jpg",
+      "car216_3_01-CA2mqBQx.jpg"
     ]
   },
   {
     "carId": "car655",
     "nome": "Z4 3.0i '03",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car655",
     "immagini": [
       "car655.png",
@@ -999,6 +1107,7 @@
   {
     "carId": "car1902",
     "nome": "Z4 GT3 '11",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1902",
     "immagini": [
       "car1902.png",
@@ -1011,6 +1120,7 @@
   {
     "carId": "car1893",
     "nome": "Z8 '01",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1893",
     "immagini": [
       "car1893.png",
@@ -1023,6 +1133,7 @@
   {
     "carId": "car3266",
     "nome": "i3 '15",
+    "marca": "BMW",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3266",
     "immagini": [
       "car3266.png",
@@ -1035,6 +1146,7 @@
   {
     "carId": "car2134",
     "nome": "Bugatti VGT",
+    "marca": "Bugatti",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2134",
     "immagini": [
       "car2134.png",
@@ -1047,17 +1159,20 @@
   {
     "carId": "car2179",
     "nome": "Bugatti VGT (Gr.1)",
+    "marca": "Bugatti",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2179",
     "immagini": [
       "car2179.png",
       "car2179_1_01-CLTQ0l1x.jpg",
       "car2179_2_01-BcBoTswp.jpg",
-      "car2179_2_02-BSw-77pC.jpg"
+      "car2179_2_02-BSw-77pC.jpg",
+      "car2179_3_01-BzTJ4zzT.jpg"
     ]
   },
   {
     "carId": "car3473",
     "nome": "Chiron '16",
+    "marca": "Bugatti",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3473",
     "immagini": [
       "car3473.png",
@@ -1071,6 +1186,7 @@
   {
     "carId": "car2049",
     "nome": "Veyron 16.4 '13",
+    "marca": "Bugatti",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2049",
     "immagini": [
       "car2049.png",
@@ -1084,6 +1200,7 @@
   {
     "carId": "car3246",
     "nome": "Veyron Gr.4",
+    "marca": "Bugatti",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3246",
     "immagini": [
       "car3246.png",
@@ -1096,6 +1213,7 @@
   {
     "carId": "car3541",
     "nome": "BVLGARI Aluminium VGT",
+    "marca": "BVLGARI",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3541",
     "immagini": [
       "car3541.png",
@@ -1109,6 +1227,7 @@
   {
     "carId": "car3395",
     "nome": "Seven Superlight R500 '08",
+    "marca": "Caterham",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3395",
     "immagini": [
       "car3395.png",
@@ -1122,6 +1241,7 @@
   {
     "carId": "car1069",
     "nome": "2J '70",
+    "marca": "Chaparral",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1069",
     "immagini": [
       "car1069.png",
@@ -1135,6 +1255,7 @@
   {
     "carId": "car2107",
     "nome": "Chaparral 2X VGT",
+    "marca": "Chaparral",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2107",
     "immagini": [
       "car2107.png",
@@ -1146,6 +1267,7 @@
   {
     "carId": "car3592",
     "nome": "Camaro 1969 Race-Mod",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3592",
     "immagini": [
       "car3592.png",
@@ -1159,6 +1281,7 @@
   {
     "carId": "car3217",
     "nome": "Camaro SS '16",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3217",
     "immagini": [
       "car3217.png",
@@ -1172,6 +1295,7 @@
   {
     "carId": "car31",
     "nome": "Camaro Z28 '69",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car31",
     "immagini": [
       "car31.png",
@@ -1184,6 +1308,7 @@
   {
     "carId": "car3387",
     "nome": "Camaro ZL1 1LE Package '18",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3387",
     "immagini": [
       "car3387.png",
@@ -1196,6 +1321,7 @@
   {
     "carId": "car36",
     "nome": "Chevelle SS 454 '70",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car36",
     "immagini": [
       "car36.png",
@@ -1209,6 +1335,7 @@
   {
     "carId": "car3464",
     "nome": "Corvette (C1) '58",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3464",
     "immagini": [
       "car3464.png",
@@ -1222,6 +1349,7 @@
   {
     "carId": "car818",
     "nome": "Corvette (C2) '63",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car818",
     "immagini": [
       "car818.png",
@@ -1234,6 +1362,7 @@
   {
     "carId": "car1916",
     "nome": "Corvette C7 '14",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1916",
     "immagini": [
       "car1916.png",
@@ -1246,6 +1375,7 @@
   {
     "carId": "car2183",
     "nome": "Corvette C7 Gr.3",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2183",
     "immagini": [
       "car2183.png",
@@ -1258,6 +1388,7 @@
   {
     "carId": "car3296",
     "nome": "Corvette C7 Gr.3 Road Car",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3296",
     "immagini": [
       "car3296.png",
@@ -1270,6 +1401,7 @@
   {
     "carId": "car3247",
     "nome": "Corvette C7 Gr.4",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3247",
     "immagini": [
       "car3247.png",
@@ -1282,6 +1414,7 @@
   {
     "carId": "car3449",
     "nome": "Corvette C7 ZR1 '19",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3449",
     "immagini": [
       "car3449.png",
@@ -1294,6 +1427,7 @@
   {
     "carId": "car3518",
     "nome": "Corvette C8 '20",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3518",
     "immagini": [
       "car3518.png",
@@ -1307,6 +1441,7 @@
   {
     "carId": "car3581",
     "nome": "Corvette CX Concept '25",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3581",
     "immagini": [
       "car3581.png",
@@ -1320,6 +1455,7 @@
   {
     "carId": "car3582",
     "nome": "Corvette CX.R VGT Concept",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3582",
     "immagini": [
       "car3582.png",
@@ -1333,6 +1469,7 @@
   {
     "carId": "car1542",
     "nome": "Corvette Convertible (C3) '69",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1542",
     "immagini": [
       "car1542.png",
@@ -1345,6 +1482,7 @@
   {
     "carId": "car41",
     "nome": "Corvette Stingray (C3) '69",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car41",
     "immagini": [
       "car41.png",
@@ -1357,6 +1495,7 @@
   {
     "carId": "car2059",
     "nome": "Corvette Stingray Racer Concept '59",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2059",
     "immagini": [
       "car2059.png",
@@ -1369,6 +1508,7 @@
   {
     "carId": "car3570",
     "nome": "Corvette Z06 (C5) '01",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3570",
     "immagini": [
       "car3570.png",
@@ -1382,6 +1522,7 @@
   {
     "carId": "car942",
     "nome": "Corvette ZR-1 (C4) '89",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car942",
     "immagini": [
       "car942.png",
@@ -1394,6 +1535,7 @@
   {
     "carId": "car1480",
     "nome": "Corvette ZR1 (C6) '09",
+    "marca": "Chevrolet",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1480",
     "immagini": [
       "car1480.png",
@@ -1406,6 +1548,7 @@
   {
     "carId": "car3338",
     "nome": "CHC 1967 Chevy Nova",
+    "marca": "Chris Holstrom Concepts",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3338",
     "immagini": [
       "car3338.png",
@@ -1418,6 +1561,7 @@
   {
     "carId": "car3573",
     "nome": "BX 19 TRS '87",
+    "marca": "Citroën",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3573",
     "immagini": [
       "car3573.png",
@@ -1431,6 +1575,7 @@
   {
     "carId": "car3514",
     "nome": "DS 21 Pallas '70",
+    "marca": "Citroën",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3514",
     "immagini": [
       "car3514.png",
@@ -1444,6 +1589,7 @@
   {
     "carId": "car3248",
     "nome": "GT by Citroën Gr.4",
+    "marca": "Citroën",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3248",
     "immagini": [
       "car3248.png",
@@ -1456,6 +1602,7 @@
   {
     "carId": "car2190",
     "nome": "GT by Citroën Race Car (Gr.3)",
+    "marca": "Citroën",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2190",
     "immagini": [
       "car2190.png",
@@ -1468,6 +1615,7 @@
   {
     "carId": "car1581",
     "nome": "GT by Citroën Road Car",
+    "marca": "Citroën",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1581",
     "immagini": [
       "car1581.png",
@@ -1480,6 +1628,7 @@
   {
     "carId": "car3316",
     "nome": "COPEN RJ VGT",
+    "marca": "Daihatsu",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3316",
     "immagini": [
       "car3316.png",
@@ -1492,6 +1641,7 @@
   {
     "carId": "car145",
     "nome": "Copen '02",
+    "marca": "Daihatsu",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car145",
     "immagini": [
       "car145.png",
@@ -1504,6 +1654,7 @@
   {
     "carId": "car3437",
     "nome": "Mangusta '69",
+    "marca": "De Tomaso",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3437",
     "immagini": [
       "car3437.png",
@@ -1516,6 +1667,7 @@
   {
     "carId": "car3341",
     "nome": "Pantera '71",
+    "marca": "De Tomaso",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3341",
     "immagini": [
       "car3341.png",
@@ -1528,6 +1680,7 @@
   {
     "carId": "car1027",
     "nome": "DeLorean S2 '04",
+    "marca": "DMC",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1027",
     "immagini": [
       "car1027.png",
@@ -1541,6 +1694,7 @@
   {
     "carId": "car1543",
     "nome": "Challenger R/T '70",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1543",
     "immagini": [
       "car1543.png",
@@ -1553,6 +1707,7 @@
   {
     "carId": "car3486",
     "nome": "Challenger SRT Demon '18",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3486",
     "immagini": [
       "car3486.png",
@@ -1566,6 +1721,7 @@
   {
     "carId": "car3538",
     "nome": "Charger R/T 426 Hemi '68",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3538",
     "immagini": [
       "car3538.png",
@@ -1578,6 +1734,7 @@
   {
     "carId": "car2152",
     "nome": "Charger SRT Hellcat '15",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2152",
     "immagini": [
       "car2152.png",
@@ -1590,6 +1747,7 @@
   {
     "carId": "car3406",
     "nome": "Charger SRT Hellcat Safety Car",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3406",
     "immagini": [
       "car3406.png",
@@ -1602,6 +1760,7 @@
   {
     "carId": "car2110",
     "nome": "SRT Tomahawk GTS-R VGT",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2110",
     "immagini": [
       "car2110.png",
@@ -1614,6 +1773,7 @@
   {
     "carId": "car2111",
     "nome": "SRT Tomahawk S VGT",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2111",
     "immagini": [
       "car2111.png",
@@ -1626,6 +1786,7 @@
   {
     "carId": "car3188",
     "nome": "SRT Tomahawk VGT (Gr.1)",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3188",
     "immagini": [
       "car3188.png",
@@ -1638,6 +1799,7 @@
   {
     "carId": "car2108",
     "nome": "SRT Tomahawk X VGT",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2108",
     "immagini": [
       "car2108.png",
@@ -1650,6 +1812,7 @@
   {
     "carId": "car3377",
     "nome": "Super Bee '70",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3377",
     "immagini": [
       "car3377.png",
@@ -1662,6 +1825,7 @@
   {
     "carId": "car1373",
     "nome": "Viper GTS '02",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1373",
     "immagini": [
       "car1373.png",
@@ -1674,6 +1838,7 @@
   {
     "carId": "car1956",
     "nome": "Viper GTS '13",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1956",
     "immagini": [
       "car1956.png",
@@ -1686,6 +1851,7 @@
   {
     "carId": "car3249",
     "nome": "Viper Gr.4",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3249",
     "immagini": [
       "car3249.png",
@@ -1698,6 +1864,7 @@
   {
     "carId": "car3223",
     "nome": "Viper SRT GT3-R '15",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3223",
     "immagini": [
       "car3223.png",
@@ -1710,6 +1877,7 @@
   {
     "carId": "car1402",
     "nome": "Viper SRT10 Coupe '06",
+    "marca": "Dodge",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1402",
     "immagini": [
       "car1402.png",
@@ -1722,6 +1890,7 @@
   {
     "carId": "car2172",
     "nome": "DS 3 Racing '11",
+    "marca": "DS AUTOMOBILES",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2172",
     "immagini": [
       "car2172.png",
@@ -1734,6 +1903,7 @@
   {
     "carId": "car3346",
     "nome": "Mach Forty",
+    "marca": "Eckert's Rod & Custom",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3346",
     "immagini": [
       "car3346.png",
@@ -1746,6 +1916,7 @@
   {
     "carId": "car1931",
     "nome": "250 GT Berlinetta passo corto '61",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1931",
     "immagini": [
       "car1931.png",
@@ -1758,6 +1929,7 @@
   {
     "carId": "car2010",
     "nome": "250 GTO '62",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2010",
     "immagini": [
       "car2010.png",
@@ -1770,6 +1942,7 @@
   {
     "carId": "car3588",
     "nome": "296 GT3 '23",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3588",
     "immagini": [
       "car3588.png",
@@ -1783,6 +1956,7 @@
   {
     "carId": "car3587",
     "nome": "296 GTB '22",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3587",
     "immagini": [
       "car3587.png",
@@ -1796,6 +1970,7 @@
   {
     "carId": "car3443",
     "nome": "308 GTB '75",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3443",
     "immagini": [
       "car3443.png",
@@ -1808,6 +1983,7 @@
   {
     "carId": "car1551",
     "nome": "330 P4 '67",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1551",
     "immagini": [
       "car1551.png",
@@ -1820,6 +1996,7 @@
   {
     "carId": "car2018",
     "nome": "365 GTB4 '71",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2018",
     "immagini": [
       "car2018.png",
@@ -1832,6 +2009,7 @@
   {
     "carId": "car1544",
     "nome": "430 Scuderia '07",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1544",
     "immagini": [
       "car1544.png",
@@ -1845,6 +2023,7 @@
   {
     "carId": "car1504",
     "nome": "458 Italia '09",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1504",
     "immagini": [
       "car1504.png",
@@ -1857,6 +2036,7 @@
   {
     "carId": "car2158",
     "nome": "458 Italia GT3 '13",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2158",
     "immagini": [
       "car2158.png",
@@ -1869,6 +2049,7 @@
   {
     "carId": "car3263",
     "nome": "458 Italia Gr.4",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3263",
     "immagini": [
       "car3263.png",
@@ -1881,6 +2062,7 @@
   {
     "carId": "car3605",
     "nome": "499P '23",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3605",
     "immagini": [
       "car3605.png",
@@ -1894,6 +2076,7 @@
   {
     "carId": "car2011",
     "nome": "500 Mondial Pinin Farina Coupe '54",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2011",
     "immagini": [
       "car2011.png",
@@ -1906,6 +2089,7 @@
   {
     "carId": "car1410",
     "nome": "512 BB '76",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1410",
     "immagini": [
       "car1410.png",
@@ -1918,6 +2102,7 @@
   {
     "carId": "car3470",
     "nome": "812 Superfast '17",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3470",
     "immagini": [
       "car3470.png",
@@ -1931,6 +2116,7 @@
   {
     "carId": "car1895",
     "nome": "Dino 246 GT '71",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1895",
     "immagini": [
       "car1895.png",
@@ -1943,6 +2129,7 @@
   {
     "carId": "car1474",
     "nome": "Enzo Ferrari '02",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1474",
     "immagini": [
       "car1474.png",
@@ -1955,6 +2142,7 @@
   {
     "carId": "car3267",
     "nome": "F12berlinetta '12",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3267",
     "immagini": [
       "car3267.png",
@@ -1967,6 +2155,7 @@
   {
     "carId": "car1409",
     "nome": "F40 '92",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1409",
     "immagini": [
       "car1409.png",
@@ -1980,6 +2169,7 @@
   {
     "carId": "car1378",
     "nome": "F430 '06",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1378",
     "immagini": [
       "car1378.png",
@@ -1992,6 +2182,7 @@
   {
     "carId": "car3362",
     "nome": "F50 '95",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3362",
     "immagini": [
       "car3362.png",
@@ -2005,6 +2196,7 @@
   {
     "carId": "car3469",
     "nome": "F8 Tributo '19",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3469",
     "immagini": [
       "car3469.png",
@@ -2017,6 +2209,7 @@
   {
     "carId": "car3433",
     "nome": "FXX K '14",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3433",
     "immagini": [
       "car3433.png",
@@ -2029,6 +2222,7 @@
   {
     "carId": "car3510",
     "nome": "Ferrari VGT",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3510",
     "immagini": [
       "car3510.png",
@@ -2042,6 +2236,7 @@
   {
     "carId": "car2017",
     "nome": "GTO '84",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2017",
     "immagini": [
       "car2017.png",
@@ -2054,6 +2249,7 @@
   {
     "carId": "car2162",
     "nome": "LaFerrari '13",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2162",
     "immagini": [
       "car2162.png",
@@ -2066,6 +2262,7 @@
   {
     "carId": "car3434",
     "nome": "Testarossa '91",
+    "marca": "Ferrari",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3434",
     "immagini": [
       "car3434.png",
@@ -2078,6 +2275,7 @@
   {
     "carId": "car1527",
     "nome": "500 1.2 8V Lounge SS '08",
+    "marca": "FIAT",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1527",
     "immagini": [
       "car1527.png",
@@ -2090,6 +2288,7 @@
   {
     "carId": "car1523",
     "nome": "500 F '68",
+    "marca": "FIAT",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1523",
     "immagini": [
       "car1523.png",
@@ -2102,6 +2301,7 @@
   {
     "carId": "car3575",
     "nome": "Panda 30 CL '85",
+    "marca": "FIAT",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3575",
     "immagini": [
       "car3575.png",
@@ -2115,6 +2315,7 @@
   {
     "carId": "car3555",
     "nome": "Escort RS Cosworth '92",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3555",
     "immagini": [
       "car3555.png",
@@ -2128,6 +2329,7 @@
   {
     "carId": "car3336",
     "nome": "F-150 SVT Raptor '11",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3336",
     "immagini": [
       "car3336.png",
@@ -2140,6 +2342,7 @@
   {
     "carId": "car3264",
     "nome": "Focus Gr.B Rally Car",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3264",
     "immagini": [
       "car3264.png",
@@ -2152,6 +2355,7 @@
   {
     "carId": "car3420",
     "nome": "Focus RS '18",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3420",
     "immagini": [
       "car3420.png",
@@ -2164,6 +2368,7 @@
   {
     "carId": "car2145",
     "nome": "Focus ST '15",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2145",
     "immagini": [
       "car2145.png",
@@ -2176,6 +2381,7 @@
   {
     "carId": "car1426",
     "nome": "Ford GT '06",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1426",
     "immagini": [
       "car1426.png",
@@ -2188,6 +2394,7 @@
   {
     "carId": "car3402",
     "nome": "Ford GT '17",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3402",
     "immagini": [
       "car3402.png",
@@ -2200,6 +2407,7 @@
   {
     "carId": "car1040",
     "nome": "Ford GT LM Race Car Spec II",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1040",
     "immagini": [
       "car1040.png",
@@ -2212,6 +2420,7 @@
   {
     "carId": "car1425",
     "nome": "Ford GT LM Spec II Test Car",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1425",
     "immagini": [
       "car1425.png",
@@ -2224,6 +2433,7 @@
   {
     "carId": "car3436",
     "nome": "Ford GT Race Car '18",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3436",
     "immagini": [
       "car3436.png",
@@ -2236,6 +2446,7 @@
   {
     "carId": "car3444",
     "nome": "Ford Roadster",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3444",
     "immagini": [
       "car3444.png",
@@ -2249,6 +2460,7 @@
   {
     "carId": "car1935",
     "nome": "GT40 Mark I '66",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1935",
     "immagini": [
       "car1935.png",
@@ -2261,6 +2473,7 @@
   {
     "carId": "car1565",
     "nome": "Mark IV Race Car '67",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1565",
     "immagini": [
       "car1565.png",
@@ -2273,6 +2486,7 @@
   {
     "carId": "car3487",
     "nome": "Mustang Boss 429 '69",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3487",
     "immagini": [
       "car3487.png",
@@ -2285,6 +2499,7 @@
   {
     "carId": "car2138",
     "nome": "Mustang GT '15",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2138",
     "immagini": [
       "car2138.png",
@@ -2297,6 +2512,7 @@
   {
     "carId": "car2159",
     "nome": "Mustang Gr.3",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2159",
     "immagini": [
       "car2159.png",
@@ -2309,6 +2525,7 @@
   {
     "carId": "car3300",
     "nome": "Mustang Gr.3 Road Car",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3300",
     "immagini": [
       "car3300.png",
@@ -2321,6 +2538,7 @@
   {
     "carId": "car2164",
     "nome": "Mustang Gr.4",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2164",
     "immagini": [
       "car2164.png",
@@ -2333,6 +2551,7 @@
   {
     "carId": "car3229",
     "nome": "Mustang Gr.B Rally Car",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3229",
     "immagini": [
       "car3229.png",
@@ -2345,6 +2564,7 @@
   {
     "carId": "car1729",
     "nome": "Mustang Mach 1 '71",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1729",
     "immagini": [
       "car1729.png",
@@ -2357,6 +2577,7 @@
   {
     "carId": "car3391",
     "nome": "Shelby GT350R '16",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3391",
     "immagini": [
       "car3391.png",
@@ -2369,6 +2590,7 @@
   {
     "carId": "car3466",
     "nome": "Sierra RS 500 Cosworth '87",
+    "marca": "Ford",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3466",
     "immagini": [
       "car3466.png",
@@ -2382,6 +2604,7 @@
   {
     "carId": "car3500",
     "nome": "G70 3.3T AWD P.Package '22",
+    "marca": "Genesis",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3500",
     "immagini": [
       "car3500.png",
@@ -2395,6 +2618,7 @@
   {
     "carId": "car3501",
     "nome": "G70 GR4",
+    "marca": "Genesis",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3501",
     "immagini": [
       "car3501.png",
@@ -2408,6 +2632,7 @@
   {
     "carId": "car3502",
     "nome": "Genesis X GR3",
+    "marca": "Genesis",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3502",
     "immagini": [
       "car3502.png",
@@ -2421,6 +2646,7 @@
   {
     "carId": "car3543",
     "nome": "Genesis X Gran Berlinetta VGT Concept",
+    "marca": "Genesis",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3543",
     "immagini": [
       "car3543.png",
@@ -2434,6 +2660,7 @@
   {
     "carId": "car3544",
     "nome": "Genesis X Gran Racer VGT Concept",
+    "marca": "Genesis",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3544",
     "immagini": [
       "car3544.png",
@@ -2447,6 +2674,7 @@
   {
     "carId": "car3342",
     "nome": "F1500T-A",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3342",
     "immagini": [
       "car3342.png",
@@ -2459,6 +2687,7 @@
   {
     "carId": "car3562",
     "nome": "F3500-A",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3562",
     "immagini": [
       "car3562.png",
@@ -2472,6 +2701,7 @@
   {
     "carId": "car3589",
     "nome": "F3500-B",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3589",
     "immagini": [
       "car3589.png",
@@ -2485,6 +2715,7 @@
   {
     "carId": "car2060",
     "nome": "Racing Kart 125 Shifter",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2060",
     "immagini": [
       "car2060.png",
@@ -2497,6 +2728,7 @@
   {
     "carId": "car2078",
     "nome": "Red Bull X2014 Junior",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2078",
     "immagini": [
       "car2078.png",
@@ -2509,6 +2741,7 @@
   {
     "carId": "car2077",
     "nome": "Red Bull X2014 Standard",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2077",
     "immagini": [
       "car2077.png",
@@ -2521,6 +2754,7 @@
   {
     "carId": "car3374",
     "nome": "Red Bull X2019 Competition",
+    "marca": "Gran Turismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3374",
     "immagini": [
       "car3374.png",
@@ -2533,6 +2767,7 @@
   {
     "carId": "car3364",
     "nome": "GReddy Fugu Z",
+    "marca": "GReddy",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3364",
     "immagini": [
       "car3364.png",
@@ -2545,6 +2780,7 @@
   {
     "carId": "car3526",
     "nome": "Garage RCR Civic",
+    "marca": "Garage RCR",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3526",
     "immagini": [
       "car3526.png",
@@ -2558,6 +2794,7 @@
   {
     "carId": "car3522",
     "nome": "GAC Maverick",
+    "marca": "Greening Auto Company",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3522",
     "immagini": [
       "car3522.png",
@@ -2571,6 +2808,7 @@
   {
     "carId": "car2156",
     "nome": "2&4 powered by RC213V",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2156",
     "immagini": [
       "car2156.png",
@@ -2583,6 +2821,7 @@
   {
     "carId": "car137",
     "nome": "Beat '91",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car137",
     "immagini": [
       "car137.png",
@@ -2595,6 +2834,7 @@
   {
     "carId": "car3572",
     "nome": "CR-V e:HEV EX・Black Edition '21",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3572",
     "immagini": [
       "car3572.png",
@@ -2608,6 +2848,7 @@
   {
     "carId": "car3563",
     "nome": "Civic Si Extra (EF) '87",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3563",
     "immagini": [
       "car3563.png",
@@ -2621,6 +2862,7 @@
   {
     "carId": "car37",
     "nome": "Civic SiR･II (EG) '93",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car37",
     "immagini": [
       "car37.png",
@@ -2634,6 +2876,7 @@
   {
     "carId": "car821",
     "nome": "Civic Type R (EK) '97",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car821",
     "immagini": [
       "car821.png",
@@ -2646,6 +2889,7 @@
   {
     "carId": "car204",
     "nome": "Civic Type R (EK) '98",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car204",
     "immagini": [
       "car204.png",
@@ -2658,6 +2902,7 @@
   {
     "carId": "car1689",
     "nome": "Civic Type R (EK) Touring Car",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1689",
     "immagini": [
       "car1689.png",
@@ -2670,6 +2915,7 @@
   {
     "carId": "car3214",
     "nome": "Civic Type R (FK2) '15",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3214",
     "immagini": [
       "car3214.png",
@@ -2682,6 +2928,7 @@
   {
     "carId": "car3536",
     "nome": "Civic Type R (FL5) '22",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3536",
     "immagini": [
       "car3536.png",
@@ -2695,6 +2942,7 @@
   {
     "carId": "car3467",
     "nome": "Civic Type R Limited Edition (FK8) '20",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3467",
     "immagini": [
       "car3467.png",
@@ -2708,6 +2956,7 @@
   {
     "carId": "car3370",
     "nome": "Fit Hybrid '14",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3370",
     "immagini": [
       "car3370.png",
@@ -2720,6 +2969,7 @@
   {
     "carId": "car2121",
     "nome": "Honda Sports VGT",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2121",
     "immagini": [
       "car2121.png",
@@ -2732,6 +2982,7 @@
   {
     "carId": "car688",
     "nome": "Integra Type R (DC2) '95",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car688",
     "immagini": [
       "car688.png",
@@ -2744,6 +2995,7 @@
   {
     "carId": "car203",
     "nome": "Integra Type R (DC2) '98",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car203",
     "immagini": [
       "car203.png",
@@ -2756,6 +3008,7 @@
   {
     "carId": "car3576",
     "nome": "N-ONE RS '22",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3576",
     "immagini": [
       "car3576.png",
@@ -2769,6 +3022,7 @@
   {
     "carId": "car3219",
     "nome": "NSX '17",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3219",
     "immagini": [
       "car3219.png",
@@ -2781,6 +3035,7 @@
   {
     "carId": "car3348",
     "nome": "NSX CONCEPT-GT '16",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3348",
     "immagini": [
       "car3348.png",
@@ -2793,6 +3048,7 @@
   {
     "carId": "car140",
     "nome": "NSX GT500 '00",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car140",
     "immagini": [
       "car140.png",
@@ -2806,6 +3062,7 @@
   {
     "carId": "car1510",
     "nome": "NSX GT500 '08",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1510",
     "immagini": [
       "car1510.png",
@@ -2818,6 +3075,7 @@
   {
     "carId": "car3235",
     "nome": "NSX Gr.3",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3235",
     "immagini": [
       "car3235.png",
@@ -2830,6 +3088,7 @@
   {
     "carId": "car3251",
     "nome": "NSX Gr.4",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3251",
     "immagini": [
       "car3251.png",
@@ -2842,6 +3101,7 @@
   {
     "carId": "car3239",
     "nome": "NSX Gr.B Rally Car",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3239",
     "immagini": [
       "car3239.png",
@@ -2854,6 +3114,7 @@
   {
     "carId": "car396",
     "nome": "NSX Type R '02",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car396",
     "immagini": [
       "car396.png",
@@ -2866,6 +3127,7 @@
   {
     "carId": "car293",
     "nome": "NSX Type R '92",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car293",
     "immagini": [
       "car293.png",
@@ -2878,6 +3140,7 @@
   {
     "carId": "car3525",
     "nome": "RA272 '65",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3525",
     "immagini": [
       "car3525.png",
@@ -2891,6 +3154,7 @@
   {
     "carId": "car514",
     "nome": "S2000 '99",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car514",
     "immagini": [
       "car514.png",
@@ -2903,6 +3167,7 @@
   {
     "carId": "car3357",
     "nome": "S660 '15",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3357",
     "immagini": [
       "car3357.png",
@@ -2915,6 +3180,7 @@
   {
     "carId": "car135",
     "nome": "S800 '66",
+    "marca": "Honda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car135",
     "immagini": [
       "car135.png",
@@ -2927,6 +3193,7 @@
   {
     "carId": "car3585",
     "nome": "ELANTRA N '23",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3585",
     "immagini": [
       "car3585.png",
@@ -2940,6 +3207,7 @@
   {
     "carId": "car3590",
     "nome": "ELANTRA N TC '24",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3590",
     "immagini": [
       "car3590.png",
@@ -2953,6 +3221,7 @@
   {
     "carId": "car2051",
     "nome": "Genesis Coupe 3.8 '13",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2051",
     "immagini": [
       "car2051.png",
@@ -2965,6 +3234,7 @@
   {
     "carId": "car2160",
     "nome": "Genesis Gr.3",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2160",
     "immagini": [
       "car2160.png",
@@ -2977,6 +3247,7 @@
   {
     "carId": "car2163",
     "nome": "Genesis Gr.4",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2163",
     "immagini": [
       "car2163.png",
@@ -2989,6 +3260,7 @@
   {
     "carId": "car3234",
     "nome": "Genesis Gr.B Rally Car",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3234",
     "immagini": [
       "car3234.png",
@@ -3001,6 +3273,7 @@
   {
     "carId": "car2135",
     "nome": "HYUNDAI N 2025 VGT",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2135",
     "immagini": [
       "car2135.png",
@@ -3013,6 +3286,7 @@
   {
     "carId": "car2180",
     "nome": "HYUNDAI N 2025 VGT (Gr.1)",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2180",
     "immagini": [
       "car2180.png",
@@ -3025,6 +3299,7 @@
   {
     "carId": "car3561",
     "nome": "IONIQ 5 N '24",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3561",
     "immagini": [
       "car3561.png",
@@ -3038,6 +3313,7 @@
   {
     "carId": "car3610",
     "nome": "IONIQ 6 N '25",
+    "marca": "Hyundai",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3610",
     "immagini": [
       "car3610.png",
@@ -3051,6 +3327,7 @@
   {
     "carId": "car2117",
     "nome": "INFINITI CONCEPT VGT",
+    "marca": "Infiniti",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2117",
     "immagini": [
       "car2117.png",
@@ -3062,6 +3339,7 @@
   {
     "carId": "car2120",
     "nome": "Italdesign VGT Off-road Mode",
+    "marca": "Italdesign",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2120",
     "immagini": [
       "car2120.png",
@@ -3075,6 +3353,7 @@
   {
     "carId": "car2119",
     "nome": "Italdesign VGT Street Mode",
+    "marca": "Italdesign",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2119",
     "immagini": [
       "car2119.png",
@@ -3088,6 +3367,7 @@
   {
     "carId": "car3376",
     "nome": "D-type '54",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3376",
     "immagini": [
       "car3376.png",
@@ -3100,6 +3380,7 @@
   {
     "carId": "car3361",
     "nome": "E-type Coupé '61",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3361",
     "immagini": [
       "car3361.png",
@@ -3112,6 +3393,7 @@
   {
     "carId": "car2184",
     "nome": "F-type Gr.3",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2184",
     "immagini": [
       "car2184.png",
@@ -3124,6 +3406,7 @@
   {
     "carId": "car3252",
     "nome": "F-type Gr.4",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3252",
     "immagini": [
       "car3252.png",
@@ -3136,6 +3419,7 @@
   {
     "carId": "car2146",
     "nome": "F-type R '14",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2146",
     "immagini": [
       "car2146.png",
@@ -3148,6 +3432,7 @@
   {
     "carId": "car3396",
     "nome": "Jaguar VGT Coupé",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3396",
     "immagini": [
       "car3396.png",
@@ -3160,6 +3445,7 @@
   {
     "carId": "car3479",
     "nome": "Jaguar VGT Roadster",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3479",
     "immagini": [
       "car3479.png",
@@ -3172,6 +3458,7 @@
   {
     "carId": "car3417",
     "nome": "Jaguar VGT SV",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3417",
     "immagini": [
       "car3417.png",
@@ -3185,6 +3472,7 @@
   {
     "carId": "car1553",
     "nome": "XJ13 '66",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1553",
     "immagini": [
       "car1553.png",
@@ -3197,6 +3485,7 @@
   {
     "carId": "car543",
     "nome": "XJ220 '92",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car543",
     "immagini": [
       "car543.png",
@@ -3210,6 +3499,7 @@
   {
     "carId": "car1067",
     "nome": "XJR-9 '88",
+    "marca": "Jaguar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1067",
     "immagini": [
       "car1067.png",
@@ -3222,6 +3512,7 @@
   {
     "carId": "car3430",
     "nome": "Willys MB '45",
+    "marca": "Jeep",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3430",
     "immagini": [
       "car3430.png",
@@ -3234,6 +3525,7 @@
   {
     "carId": "car1907",
     "nome": "X-BOW R '12",
+    "marca": "KTM",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1907",
     "immagini": [
       "car1907.png",
@@ -3246,6 +3538,7 @@
   {
     "carId": "car1770",
     "nome": "Aventador LP 700-4 '11",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1770",
     "immagini": [
       "car1770.png",
@@ -3258,6 +3551,7 @@
   {
     "carId": "car3392",
     "nome": "Aventador LP 750-4 SV '15",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3392",
     "immagini": [
       "car3392.png",
@@ -3270,6 +3564,7 @@
   {
     "carId": "car1481",
     "nome": "Countach 25th Anniversary '88",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1481",
     "immagini": [
       "car1481.png",
@@ -3282,6 +3577,7 @@
   {
     "carId": "car1484",
     "nome": "Countach LP400 '74",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1484",
     "immagini": [
       "car1484.png",
@@ -3294,6 +3590,7 @@
   {
     "carId": "car1990",
     "nome": "Diablo GT '00",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1990",
     "immagini": [
       "car1990.png",
@@ -3306,6 +3603,7 @@
   {
     "carId": "car1506",
     "nome": "Gallardo LP 560-4 '08",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1506",
     "immagini": [
       "car1506.png",
@@ -3319,6 +3617,7 @@
   {
     "carId": "car2177",
     "nome": "Huracán GT3 '15",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2177",
     "immagini": [
       "car2177.png",
@@ -3332,6 +3631,7 @@
   {
     "carId": "car3253",
     "nome": "Huracán Gr.4",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3253",
     "immagini": [
       "car3253.png",
@@ -3344,6 +3644,7 @@
   {
     "carId": "car2171",
     "nome": "Huracán LP 610-4 '15",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2171",
     "immagini": [
       "car2171.png",
@@ -3356,6 +3657,7 @@
   {
     "carId": "car3414",
     "nome": "Lambo V12 VGT",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3414",
     "immagini": [
       "car3414.png",
@@ -3368,6 +3670,7 @@
   {
     "carId": "car1582",
     "nome": "Miura P400 Bertone Prototype '67",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1582",
     "immagini": [
       "car1582.png",
@@ -3380,6 +3683,7 @@
   {
     "carId": "car1545",
     "nome": "Murciélago LP 640 '09",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1545",
     "immagini": [
       "car1545.png",
@@ -3392,6 +3696,7 @@
   {
     "carId": "car3548",
     "nome": "Urus '18",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3548",
     "immagini": [
       "car3548.png",
@@ -3405,6 +3710,7 @@
   {
     "carId": "car2147",
     "nome": "Veneno '14",
+    "marca": "Lamborghini",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2147",
     "immagini": [
       "car2147.png",
@@ -3417,6 +3723,7 @@
   {
     "carId": "car829",
     "nome": "Delta HF Integrale Evoluzione '91",
+    "marca": "Lancia",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car829",
     "immagini": [
       "car829.png",
@@ -3429,6 +3736,7 @@
   {
     "carId": "car761",
     "nome": "Delta HF Integrale Rally Car '92",
+    "marca": "Lancia",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car761",
     "immagini": [
       "car761.png",
@@ -3442,6 +3750,7 @@
   {
     "carId": "car533",
     "nome": "Stratos '73",
+    "marca": "Lancia",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car533",
     "immagini": [
       "car533.png",
@@ -3454,6 +3763,7 @@
   {
     "carId": "car3227",
     "nome": "LC500 '17",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3227",
     "immagini": [
       "car3227.png",
@@ -3466,6 +3776,7 @@
   {
     "carId": "car2123",
     "nome": "LF-LC GT VGT",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2123",
     "immagini": [
       "car2123.png",
@@ -3477,6 +3788,7 @@
   {
     "carId": "car1562",
     "nome": "LFA '10",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1562",
     "immagini": [
       "car1562.png",
@@ -3490,6 +3802,7 @@
   {
     "carId": "car2139",
     "nome": "RC F '14",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2139",
     "immagini": [
       "car2139.png",
@@ -3502,6 +3815,7 @@
   {
     "carId": "car3340",
     "nome": "RC F GT3 '17",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3340",
     "immagini": [
       "car3340.png",
@@ -3514,6 +3828,7 @@
   {
     "carId": "car3228",
     "nome": "RC F GT3 prototype '16",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3228",
     "immagini": [
       "car3228.png",
@@ -3526,6 +3841,7 @@
   {
     "carId": "car3349",
     "nome": "RC F GT500 '16",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3349",
     "immagini": [
       "car3349.png",
@@ -3538,6 +3854,7 @@
   {
     "carId": "car3254",
     "nome": "RC F Gr.4",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3254",
     "immagini": [
       "car3254.png",
@@ -3550,6 +3867,7 @@
   {
     "carId": "car1516",
     "nome": "SC430 GT500 '08",
+    "marca": "Lexus",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1516",
     "immagini": [
       "car1516.png",
@@ -3562,6 +3880,7 @@
   {
     "carId": "car3489",
     "nome": "A6GCS/53 Spyder '54",
+    "marca": "Maserati",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3489",
     "immagini": [
       "car3489.png",
@@ -3575,6 +3894,7 @@
   {
     "carId": "car1539",
     "nome": "GranTurismo S '08",
+    "marca": "Maserati",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1539",
     "immagini": [
       "car1539.png",
@@ -3587,6 +3907,7 @@
   {
     "carId": "car3533",
     "nome": "MC20 '20",
+    "marca": "Maserati",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3533",
     "immagini": [
       "car3533.png",
@@ -3600,6 +3921,7 @@
   {
     "carId": "car3421",
     "nome": "Merak SS '80",
+    "marca": "Maserati",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3421",
     "immagini": [
       "car3421.png",
@@ -3613,6 +3935,7 @@
   {
     "carId": "car296",
     "nome": "787B '91",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car296",
     "immagini": [
       "car296.png",
@@ -3625,6 +3948,7 @@
   {
     "carId": "car3237",
     "nome": "Atenza Gr.3",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3237",
     "immagini": [
       "car3237.png",
@@ -3637,6 +3961,7 @@
   {
     "carId": "car3306",
     "nome": "Atenza Gr.3 Road Car",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3306",
     "immagini": [
       "car3306.png",
@@ -3649,6 +3974,7 @@
   {
     "carId": "car3256",
     "nome": "Atenza Gr.4",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3256",
     "immagini": [
       "car3256.png",
@@ -3661,6 +3987,7 @@
   {
     "carId": "car2173",
     "nome": "Atenza Sedan XD L Package '15",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2173",
     "immagini": [
       "car2173.png",
@@ -3673,6 +4000,7 @@
   {
     "carId": "car3566",
     "nome": "CX-30 X Smart Edition '21",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3566",
     "immagini": [
       "car3566.png",
@@ -3686,6 +4014,7 @@
   {
     "carId": "car3383",
     "nome": "Demio XD Touring '15",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3383",
     "immagini": [
       "car3383.png",
@@ -3698,6 +4027,7 @@
   {
     "carId": "car201",
     "nome": "Eunos Roadster (NA) '89",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car201",
     "immagini": [
       "car201.png",
@@ -3710,6 +4040,7 @@
   {
     "carId": "car2118",
     "nome": "LM55 VGT",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2118",
     "immagini": [
       "car2118.png",
@@ -3722,6 +4053,7 @@
   {
     "carId": "car2181",
     "nome": "LM55 VGT (Gr.1)",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2181",
     "immagini": [
       "car2181.png",
@@ -3734,6 +4066,7 @@
   {
     "carId": "car3578",
     "nome": "MAZDA SPIRIT RACING ROADSTER 12R '25",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3578",
     "immagini": [
       "car3578.png",
@@ -3747,6 +4080,7 @@
   {
     "carId": "car3521",
     "nome": "MAZDA3 '19",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3521",
     "immagini": [
       "car3521.png",
@@ -3760,6 +4094,7 @@
   {
     "carId": "car3537",
     "nome": "MAZDA3 Gr.4",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3537",
     "immagini": [
       "car3537.png",
@@ -3773,6 +4108,7 @@
   {
     "carId": "car374",
     "nome": "RX-7 GT-X (FC) '90",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car374",
     "immagini": [
       "car374.png",
@@ -3785,6 +4121,7 @@
   {
     "carId": "car205",
     "nome": "RX-7 Spirit R Type A (FD) '02",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car205",
     "immagini": [
       "car205.png",
@@ -3797,6 +4134,7 @@
   {
     "carId": "car3427",
     "nome": "RX-8 Spirit R '12",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3427",
     "immagini": [
       "car3427.png",
@@ -3809,6 +4147,7 @@
   {
     "carId": "car3495",
     "nome": "RX-VISION '15",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3495",
     "immagini": [
       "car3495.png",
@@ -3821,6 +4160,7 @@
   {
     "carId": "car3419",
     "nome": "RX-VISION GT3 CONCEPT",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3419",
     "immagini": [
       "car3419.png",
@@ -3833,6 +4173,7 @@
   {
     "carId": "car1975",
     "nome": "RX500 '70",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1975",
     "immagini": [
       "car1975.png",
@@ -3845,6 +4186,7 @@
   {
     "carId": "car3512",
     "nome": "Roadster NR-A (ND) '22",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3512",
     "immagini": [
       "car3512.png",
@@ -3858,6 +4200,7 @@
   {
     "carId": "car2148",
     "nome": "Roadster S (ND) '15",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2148",
     "immagini": [
       "car2148.png",
@@ -3870,6 +4213,7 @@
   {
     "carId": "car1746",
     "nome": "Roadster Touring Car",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1746",
     "immagini": [
       "car1746.png",
@@ -3882,6 +4226,7 @@
   {
     "carId": "car967",
     "nome": "ɛ̃fini RX-7 Type R (FD) '91",
+    "marca": "Mazda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car967",
     "immagini": [
       "car967.png",
@@ -3895,6 +4240,7 @@
   {
     "carId": "car2174",
     "nome": "650S '14",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2174",
     "immagini": [
       "car2174.png",
@@ -3908,6 +4254,7 @@
   {
     "carId": "car2182",
     "nome": "650S GT3 '15",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2182",
     "immagini": [
       "car2182.png",
@@ -3920,6 +4267,7 @@
   {
     "carId": "car3257",
     "nome": "650S Gr.4",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3257",
     "immagini": [
       "car3257.png",
@@ -3932,6 +4280,7 @@
   {
     "carId": "car1722",
     "nome": "MP4-12C '10",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1722",
     "immagini": [
       "car1722.png",
@@ -3944,6 +4293,7 @@
   {
     "carId": "car3475",
     "nome": "MP4/4 '88",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3475",
     "immagini": [
       "car3475.png",
@@ -3957,6 +4307,7 @@
   {
     "carId": "car1540",
     "nome": "McLaren F1 '94",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1540",
     "immagini": [
       "car1540.png",
@@ -3969,6 +4320,7 @@
   {
     "carId": "car1984",
     "nome": "McLaren F1 GTR - BMW '95",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1984",
     "immagini": [
       "car1984.png",
@@ -3981,6 +4333,7 @@
   {
     "carId": "car3360",
     "nome": "McLaren P1 GTR '16",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3360",
     "immagini": [
       "car3360.png",
@@ -3993,6 +4346,7 @@
   {
     "carId": "car3315",
     "nome": "McLaren VGT",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3315",
     "immagini": [
       "car3315.png",
@@ -4005,6 +4359,7 @@
   {
     "carId": "car3335",
     "nome": "McLaren VGT (Gr.1)",
+    "marca": "McLaren",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3335",
     "immagini": [
       "car3335.png",
@@ -4017,6 +4372,7 @@
   {
     "carId": "car575",
     "nome": "190 E 2.5-16 Evolution II '91",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car575",
     "immagini": [
       "car575.png",
@@ -4030,6 +4386,7 @@
   {
     "carId": "car3441",
     "nome": "300 SL (W194) '52",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3441",
     "immagini": [
       "car3441.png",
@@ -4043,6 +4400,7 @@
   {
     "carId": "car387",
     "nome": "300 SL Coupé '54",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car387",
     "immagini": [
       "car387.png",
@@ -4055,6 +4413,7 @@
   {
     "carId": "car3397",
     "nome": "CLK-LM '98",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3397",
     "immagini": [
       "car3397.png",
@@ -4068,6 +4427,7 @@
   {
     "carId": "car3428",
     "nome": "S Barker Tourer '29",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3428",
     "immagini": [
       "car3428.png",
@@ -4080,6 +4440,7 @@
   {
     "carId": "car1528",
     "nome": "SLR McLaren '09",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1528",
     "immagini": [
       "car1528.png",
@@ -4092,6 +4453,7 @@
   {
     "carId": "car998",
     "nome": "Sauber Mercedes C9 '89",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car998",
     "immagini": [
       "car998.png",
@@ -4104,6 +4466,7 @@
   {
     "carId": "car3556",
     "nome": "Unimog Type 411 '62",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3556",
     "immagini": [
       "car3556.png",
@@ -4117,6 +4480,7 @@
   {
     "carId": "car3557",
     "nome": "W 196 R '55",
+    "marca": "Mercedes-Benz",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3557",
     "immagini": [
       "car3557.png",
@@ -4130,6 +4494,7 @@
   {
     "carId": "car1427",
     "nome": "BNR34 GT-R N1 base",
+    "marca": "Mine's",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1427",
     "immagini": [
       "car1427.png",
@@ -4143,6 +4508,7 @@
   {
     "carId": "car2109",
     "nome": "MINI Clubman VGT",
+    "marca": "MINI",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2109",
     "immagini": [
       "car2109.png",
@@ -4154,6 +4520,7 @@
   {
     "carId": "car1370",
     "nome": "MINI Cooper S '05",
+    "marca": "MINI",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1370",
     "immagini": [
       "car1370.png",
@@ -4166,6 +4533,7 @@
   {
     "carId": "car3356",
     "nome": "Mini-Cooper 'S' '65",
+    "marca": "MINI",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3356",
     "immagini": [
       "car3356.png",
@@ -4178,6 +4546,7 @@
   {
     "carId": "car2095",
     "nome": "Concept XR-PHEV EVOLUTION VGT",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2095",
     "immagini": [
       "car2095.png",
@@ -4189,6 +4558,7 @@
   {
     "carId": "car51",
     "nome": "FTO GP Version R '97",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car51",
     "immagini": [
       "car51.png",
@@ -4202,6 +4572,7 @@
   {
     "carId": "car3384",
     "nome": "GTO Twin Turbo '91",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3384",
     "immagini": [
       "car3384.png",
@@ -4214,6 +4585,7 @@
   {
     "carId": "car2150",
     "nome": "Lancer Evolution Final '15",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2150",
     "immagini": [
       "car2150.png",
@@ -4227,6 +4599,7 @@
   {
     "carId": "car2185",
     "nome": "Lancer Evolution Final Gr.3",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2185",
     "immagini": [
       "car2185.png",
@@ -4239,6 +4612,7 @@
   {
     "carId": "car3258",
     "nome": "Lancer Evolution Final Gr.4",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3258",
     "immagini": [
       "car3258.png",
@@ -4251,6 +4625,7 @@
   {
     "carId": "car3230",
     "nome": "Lancer Evolution Final Gr.B Rally Car",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3230",
     "immagini": [
       "car3230.png",
@@ -4264,6 +4639,7 @@
   {
     "carId": "car3301",
     "nome": "Lancer Evolution Final Gr.B Road Car",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3301",
     "immagini": [
       "car3301.png",
@@ -4276,6 +4652,7 @@
   {
     "carId": "car931",
     "nome": "Lancer Evolution III GSR '95",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car931",
     "immagini": [
       "car931.png",
@@ -4288,6 +4665,7 @@
   {
     "carId": "car301",
     "nome": "Lancer Evolution IV GSR '96",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car301",
     "immagini": [
       "car301.png",
@@ -4300,6 +4678,7 @@
   {
     "carId": "car3424",
     "nome": "Lancer Evolution IX MR GSR '06",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3424",
     "immagini": [
       "car3424.png",
@@ -4312,6 +4691,7 @@
   {
     "carId": "car211",
     "nome": "Lancer Evolution V GSR '98",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car211",
     "immagini": [
       "car211.png",
@@ -4324,6 +4704,7 @@
   {
     "carId": "car1508",
     "nome": "Lancer Evolution VI GSR T.M. SCP '99",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1508",
     "immagini": [
       "car1508.png",
@@ -4337,6 +4718,7 @@
   {
     "carId": "car799",
     "nome": "Lancer Evolution VIII MR GSR '04",
+    "marca": "Mitsubishi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car799",
     "immagini": [
       "car799.png",
@@ -4350,6 +4732,7 @@
   {
     "carId": "car3520",
     "nome": "400R '95",
+    "marca": "Nismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3520",
     "immagini": [
       "car3520.png",
@@ -4363,6 +4746,7 @@
   {
     "carId": "car3569",
     "nome": "R34 GT-R Z-tune '05",
+    "marca": "Nismo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3569",
     "immagini": [
       "car3569.png",
@@ -4376,6 +4760,7 @@
   {
     "carId": "car24",
     "nome": "180SX Type X '96",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car24",
     "immagini": [
       "car24.png",
@@ -4388,6 +4773,7 @@
   {
     "carId": "car48",
     "nome": "Fairlady 240ZG (HS30) '71",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car48",
     "immagini": [
       "car48.png",
@@ -4400,6 +4786,7 @@
   {
     "carId": "car1458",
     "nome": "Fairlady Z (Z34) '08",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1458",
     "immagini": [
       "car1458.png",
@@ -4412,6 +4799,7 @@
   {
     "carId": "car709",
     "nome": "Fairlady Z 300ZX TT 2seater '89",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car709",
     "immagini": [
       "car709.png",
@@ -4424,6 +4812,7 @@
   {
     "carId": "car3429",
     "nome": "Fairlady Z 432 '69",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3429",
     "immagini": [
       "car3429.png",
@@ -4436,6 +4825,7 @@
   {
     "carId": "car1384",
     "nome": "Fairlady Z Version S (Z33) '07",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1384",
     "immagini": [
       "car1384.png",
@@ -4448,6 +4838,7 @@
   {
     "carId": "car2167",
     "nome": "GT-R '17",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2167",
     "immagini": [
       "car2167.png",
@@ -4460,6 +4851,7 @@
   {
     "carId": "car1466",
     "nome": "GT-R GT500 '08",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1466",
     "immagini": [
       "car1466.png",
@@ -4473,6 +4865,7 @@
   {
     "carId": "car485",
     "nome": "GT-R GT500 '99",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car485",
     "immagini": [
       "car485.png",
@@ -4485,6 +4878,7 @@
   {
     "carId": "car2161",
     "nome": "GT-R Gr.4",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2161",
     "immagini": [
       "car2161.png",
@@ -4497,6 +4891,7 @@
   {
     "carId": "car3241",
     "nome": "GT-R Gr.B Rally Car",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3241",
     "immagini": [
       "car3241.png",
@@ -4509,6 +4904,7 @@
   {
     "carId": "car2127",
     "nome": "GT-R LM NISMO '15",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2127",
     "immagini": [
       "car2127.png",
@@ -4521,6 +4917,7 @@
   {
     "carId": "car3345",
     "nome": "GT-R NISMO '17",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3345",
     "immagini": [
       "car3345.png",
@@ -4533,6 +4930,7 @@
   {
     "carId": "car1905",
     "nome": "GT-R NISMO GT3 '13",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1905",
     "immagini": [
       "car1905.png",
@@ -4545,6 +4943,7 @@
   {
     "carId": "car3450",
     "nome": "GT-R NISMO GT3 '18",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3450",
     "immagini": [
       "car3450.png",
@@ -4558,6 +4957,7 @@
   {
     "carId": "car3350",
     "nome": "GT-R NISMO GT500 '16",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3350",
     "immagini": [
       "car3350.png",
@@ -4570,6 +4970,7 @@
   {
     "carId": "car3553",
     "nome": "GT-R Premium edition T-spec '24",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3553",
     "immagini": [
       "car3553.png",
@@ -4583,6 +4984,7 @@
   {
     "carId": "car3225",
     "nome": "GT-R Safety Car",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3225",
     "immagini": [
       "car3225.png",
@@ -4595,6 +4997,7 @@
   {
     "carId": "car2142",
     "nome": "NISSAN CONCEPT 2020 VGT",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2142",
     "immagini": [
       "car2142.png",
@@ -4607,6 +5010,7 @@
   {
     "carId": "car3568",
     "nome": "Qashqai Tekna e-Power '22",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3568",
     "immagini": [
       "car3568.png",
@@ -4620,6 +5024,7 @@
   {
     "carId": "car3524",
     "nome": "R32 GT-R NISMO '90",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3524",
     "immagini": [
       "car3524.png",
@@ -4632,6 +5037,7 @@
   {
     "carId": "car773",
     "nome": "R32 GT-R V･spec II '94",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car773",
     "immagini": [
       "car773.png",
@@ -4644,6 +5050,7 @@
   {
     "carId": "car489",
     "nome": "R33 GT-R V･spec '97",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car489",
     "immagini": [
       "car489.png",
@@ -4656,6 +5063,7 @@
   {
     "carId": "car210",
     "nome": "R34 GT-R V･spec II Nür '02",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car210",
     "immagini": [
       "car210.png",
@@ -4668,6 +5076,7 @@
   {
     "carId": "car954",
     "nome": "R92CP '92",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car954",
     "immagini": [
       "car954.png",
@@ -4680,6 +5089,7 @@
   {
     "carId": "car104",
     "nome": "Sileighty '98",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car104",
     "immagini": [
       "car104.png",
@@ -4692,6 +5102,7 @@
   {
     "carId": "car78",
     "nome": "Silvia K's Aero (S14) '96",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car78",
     "immagini": [
       "car78.png",
@@ -4705,6 +5116,7 @@
   {
     "carId": "car1461",
     "nome": "Silvia K's Dia Selection (S13) '90",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1461",
     "immagini": [
       "car1461.png",
@@ -4717,6 +5129,7 @@
   {
     "carId": "car3513",
     "nome": "Silvia K's Type S (S14) '94",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3513",
     "immagini": [
       "car3513.png",
@@ -4729,6 +5142,7 @@
   {
     "carId": "car919",
     "nome": "Silvia Q's (S13) '88",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car919",
     "immagini": [
       "car919.png",
@@ -4741,6 +5155,7 @@
   {
     "carId": "car1448",
     "nome": "Silvia spec-R Aero (S15) '02",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1448",
     "immagini": [
       "car1448.png",
@@ -4753,6 +5168,7 @@
   {
     "carId": "car3477",
     "nome": "Silvia spec-R Aero (S15) Touring Car",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3477",
     "immagini": [
       "car3477.png",
@@ -4765,6 +5181,7 @@
   {
     "carId": "car836",
     "nome": "Skyline 2000GT-R (KPGC110) '73",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car836",
     "immagini": [
       "car836.png",
@@ -4777,6 +5194,7 @@
   {
     "carId": "car102",
     "nome": "Skyline GTS-R (R31) '87",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car102",
     "immagini": [
       "car102.png",
@@ -4790,6 +5208,7 @@
   {
     "carId": "car837",
     "nome": "Skyline Hard Top 2000GT-R (KPGC10) '70",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car837",
     "immagini": [
       "car837.png",
@@ -4802,6 +5221,7 @@
   {
     "carId": "car3493",
     "nome": "Skyline Super Silhouette '84",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3493",
     "immagini": [
       "car3493.png",
@@ -4815,6 +5235,7 @@
   {
     "carId": "car3504",
     "nome": "Z Performance '23",
+    "marca": "Nissan",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3504",
     "immagini": [
       "car3504.png",
@@ -4827,6 +5248,7 @@
   {
     "carId": "car3577",
     "nome": "Opel Corsa GSE VGT",
+    "marca": "Opel",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3577",
     "immagini": [
       "car3577.png",
@@ -4840,6 +5262,7 @@
   {
     "carId": "car2050",
     "nome": "Huayra '13",
+    "marca": "Pagani",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2050",
     "immagini": [
       "car2050.png",
@@ -4852,6 +5275,7 @@
   {
     "carId": "car1536",
     "nome": "Zonda R '09",
+    "marca": "Pagani",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1536",
     "immagini": [
       "car1536.png",
@@ -4864,6 +5288,7 @@
   {
     "carId": "car3574",
     "nome": "2008 Allure '21",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3574",
     "immagini": [
       "car3574.png",
@@ -4877,6 +5302,7 @@
   {
     "carId": "car3564",
     "nome": "205 GTI '88",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3564",
     "immagini": [
       "car3564.png",
@@ -4890,6 +5316,7 @@
   {
     "carId": "car105",
     "nome": "205 Turbo 16 Evolution 2 '86",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car105",
     "immagini": [
       "car105.png",
@@ -4902,6 +5329,7 @@
   {
     "carId": "car3215",
     "nome": "208 GTi by Peugeot Sport '14",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3215",
     "immagini": [
       "car3215.png",
@@ -4914,6 +5342,7 @@
   {
     "carId": "car1646",
     "nome": "908 HDi FAP '10",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1646",
     "immagini": [
       "car1646.png",
@@ -4926,6 +5355,7 @@
   {
     "carId": "car3606",
     "nome": "9X8 '25",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3606",
     "immagini": [
       "car3606.png",
@@ -4939,6 +5369,7 @@
   {
     "carId": "car3332",
     "nome": "L500R HYbrid VGT 2017",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3332",
     "immagini": [
       "car3332.png",
@@ -4951,6 +5382,7 @@
   {
     "carId": "car3333",
     "nome": "L750R HYbrid VGT 2017",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3333",
     "immagini": [
       "car3333.png",
@@ -4963,6 +5395,7 @@
   {
     "carId": "car2113",
     "nome": "PEUGEOT VGT",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2113",
     "immagini": [
       "car2113.png",
@@ -4974,6 +5407,7 @@
   {
     "carId": "car3183",
     "nome": "PEUGEOT VGT (Gr.3)",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3183",
     "immagini": [
       "car3183.png",
@@ -4985,6 +5419,7 @@
   {
     "carId": "car2176",
     "nome": "RCZ GT Line '15",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2176",
     "immagini": [
       "car2176.png",
@@ -4997,6 +5432,7 @@
   {
     "carId": "car3238",
     "nome": "RCZ Gr.3",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3238",
     "immagini": [
       "car3238.png",
@@ -5009,6 +5445,7 @@
   {
     "carId": "car3303",
     "nome": "RCZ Gr.3 Road Car",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3303",
     "immagini": [
       "car3303.png",
@@ -5021,6 +5458,7 @@
   {
     "carId": "car3259",
     "nome": "RCZ Gr.4",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3259",
     "immagini": [
       "car3259.png",
@@ -5033,6 +5471,7 @@
   {
     "carId": "car3242",
     "nome": "RCZ Gr.B Rally Car",
+    "marca": "Peugeot",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3242",
     "immagini": [
       "car3242.png",
@@ -5045,6 +5484,7 @@
   {
     "carId": "car665",
     "nome": "Superbird '70",
+    "marca": "Plymouth",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car665",
     "immagini": [
       "car665.png",
@@ -5057,6 +5497,7 @@
   {
     "carId": "car1900",
     "nome": "XNR Ghia Roadster '60",
+    "marca": "Plymouth",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1900",
     "immagini": [
       "car1900.png",
@@ -5069,6 +5510,7 @@
   {
     "carId": "car3586",
     "nome": "Polestar 5 Performance '26",
+    "marca": "Polestar",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3586",
     "immagini": [
       "car3586.png",
@@ -5082,6 +5524,7 @@
   {
     "carId": "car1985",
     "nome": "Firebird Trans Am '78",
+    "marca": "Pontiac",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1985",
     "immagini": [
       "car1985.png",
@@ -5094,11 +5537,13 @@
   {
     "carId": "car3462",
     "nome": "GTO 'The Judge' '69",
+    "marca": "Pontiac",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3462",
     "immagini": [
       "car3462.png",
       "car3462_1_01-DUVeGNi-.jpg",
       "car3462_1_02-QD0sP-y_.jpg",
+      "car3462_2_01-BAevwryh.jpg",
       "car3462_2_02-C5wP9NoJ.jpg",
       "car3462_3_01-D4AfynmO.jpg"
     ]
@@ -5106,6 +5551,7 @@
   {
     "carId": "car3375",
     "nome": "356 A/1500 GS Carrera '56",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3375",
     "immagini": [
       "car3375.png",
@@ -5118,6 +5564,7 @@
   {
     "carId": "car3365",
     "nome": "356 A/1500 GS GT Carrera Speedster '56",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3365",
     "immagini": [
       "car3365.png",
@@ -5130,6 +5577,7 @@
   {
     "carId": "car3509",
     "nome": "911 Carrera RS (901) '73",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3509",
     "immagini": [
       "car3509.png",
@@ -5143,6 +5591,7 @@
   {
     "carId": "car3431",
     "nome": "911 Carrera RS (964) '92",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3431",
     "immagini": [
       "car3431.png",
@@ -5156,6 +5605,7 @@
   {
     "carId": "car3439",
     "nome": "911 Carrera RS (993) '95",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3439",
     "immagini": [
       "car3439.png",
@@ -5168,6 +5618,7 @@
   {
     "carId": "car3404",
     "nome": "911 Carrera RS CS (993) '95",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3404",
     "immagini": [
       "car3404.png",
@@ -5180,6 +5631,7 @@
   {
     "carId": "car3400",
     "nome": "911 GT1 Strassenversion '97",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3400",
     "immagini": [
       "car3400.png",
@@ -5192,6 +5644,7 @@
   {
     "carId": "car3358",
     "nome": "911 GT3 (996) '01",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3358",
     "immagini": [
       "car3358.png",
@@ -5204,6 +5657,7 @@
   {
     "carId": "car3359",
     "nome": "911 GT3 (997) '09",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3359",
     "immagini": [
       "car3359.png",
@@ -5216,6 +5670,7 @@
   {
     "carId": "car3600",
     "nome": "911 GT3 R (992) '22",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3600",
     "immagini": [
       "car3600.png",
@@ -5229,6 +5684,7 @@
   {
     "carId": "car3268",
     "nome": "911 GT3 RS (991) '16",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3268",
     "immagini": [
       "car3268.png",
@@ -5241,6 +5697,7 @@
   {
     "carId": "car3539",
     "nome": "911 GT3 RS (992) '22",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3539",
     "immagini": [
       "car3539.png",
@@ -5254,6 +5711,7 @@
   {
     "carId": "car3311",
     "nome": "911 RSR (991) '17",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3311",
     "immagini": [
       "car3311.png",
@@ -5266,6 +5724,7 @@
   {
     "carId": "car3385",
     "nome": "911 Turbo (930) '81",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3385",
     "immagini": [
       "car3385.png",
@@ -5278,6 +5737,7 @@
   {
     "carId": "car3558",
     "nome": "911 Turbo S (992) '20",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3558",
     "immagini": [
       "car3558.png",
@@ -5290,6 +5750,7 @@
   {
     "carId": "car3440",
     "nome": "911 Turbo S Leichtbau (964) '93",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3440",
     "immagini": [
       "car3440.png",
@@ -5303,6 +5764,7 @@
   {
     "carId": "car3608",
     "nome": "911 Turbo S Safety Car (992)",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3608",
     "immagini": [
       "car3608.png",
@@ -5316,6 +5778,7 @@
   {
     "carId": "car3452",
     "nome": "917 LIVING LEGEND",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3452",
     "immagini": [
       "car3452.png",
@@ -5328,6 +5791,7 @@
   {
     "carId": "car3410",
     "nome": "917K '70",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3410",
     "immagini": [
       "car3410.png",
@@ -5341,6 +5805,7 @@
   {
     "carId": "car3459",
     "nome": "918 Spyder '13",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3459",
     "immagini": [
       "car3459.png",
@@ -5354,6 +5819,7 @@
   {
     "carId": "car3313",
     "nome": "919 Hybrid '16",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3313",
     "immagini": [
       "car3313.png",
@@ -5366,6 +5832,7 @@
   {
     "carId": "car3519",
     "nome": "959 '87",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3519",
     "immagini": [
       "car3519.png",
@@ -5379,6 +5846,7 @@
   {
     "carId": "car3373",
     "nome": "962 C '88",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3373",
     "immagini": [
       "car3373.png",
@@ -5391,6 +5859,7 @@
   {
     "carId": "car3607",
     "nome": "963 '24",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3607",
     "immagini": [
       "car3607.png",
@@ -5404,6 +5873,7 @@
   {
     "carId": "car3393",
     "nome": "Carrera GT '04",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3393",
     "immagini": [
       "car3393.png",
@@ -5416,6 +5886,7 @@
   {
     "carId": "car3490",
     "nome": "Carrera GTS (904) '64",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3490",
     "immagini": [
       "car3490.png",
@@ -5429,6 +5900,7 @@
   {
     "carId": "car3488",
     "nome": "Cayman GT4 '16",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3488",
     "immagini": [
       "car3488.png",
@@ -5442,6 +5914,7 @@
   {
     "carId": "car3310",
     "nome": "Cayman GT4 Clubsport '16",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3310",
     "immagini": [
       "car3310.png",
@@ -5454,6 +5927,7 @@
   {
     "carId": "car3560",
     "nome": "Mission X '23",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3560",
     "immagini": [
       "car3560.png",
@@ -5467,6 +5941,7 @@
   {
     "carId": "car3478",
     "nome": "Porsche VGT",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3478",
     "immagini": [
       "car3478.png",
@@ -5479,6 +5954,7 @@
   {
     "carId": "car3507",
     "nome": "Porsche VGT Spyder",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3507",
     "immagini": [
       "car3507.png",
@@ -5492,9 +5968,11 @@
   {
     "carId": "car3446",
     "nome": "Spyder type 550/1500RS '55",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3446",
     "immagini": [
       "car3446.png",
+      "car3446_1_01-Djp5LSdp.jpg",
       "car3446_1_02-Br-2cR_I.jpg",
       "car3446_2_01-BgEFDAz2.jpg",
       "car3446_2_02-BVCf7doW.jpg",
@@ -5504,6 +5982,7 @@
   {
     "carId": "car3390",
     "nome": "Taycan Turbo S '19",
+    "marca": "Porsche",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3390",
     "immagini": [
       "car3390.png",
@@ -5516,6 +5995,7 @@
   {
     "carId": "car3369",
     "nome": "SR3 SL '13",
+    "marca": "Radical",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3369",
     "immagini": [
       "car3369.png",
@@ -5529,6 +6009,7 @@
   {
     "carId": "car3426",
     "nome": "Roadster Shop Rampage",
+    "marca": "Roadster Shop",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3426",
     "immagini": [
       "car3426.png",
@@ -5542,6 +6023,7 @@
   {
     "carId": "car1431",
     "nome": "RE Amemiya FD3S RX-7",
+    "marca": "RE Amemiya",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1431",
     "immagini": [
       "car1431.png",
@@ -5555,6 +6037,7 @@
   {
     "carId": "car729",
     "nome": "Avantime 3.0 V6 24V '02",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car729",
     "immagini": [
       "car729.png",
@@ -5568,6 +6051,7 @@
   {
     "carId": "car3601",
     "nome": "Captur S Edition '21",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3601",
     "immagini": [
       "car3601.png",
@@ -5581,6 +6065,7 @@
   {
     "carId": "car3220",
     "nome": "Clio R.S. 220 Trophy '15",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3220",
     "immagini": [
       "car3220.png",
@@ -5593,6 +6078,7 @@
   {
     "carId": "car3353",
     "nome": "Clio R.S. 220 Trophy '16",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3353",
     "immagini": [
       "car3353.png",
@@ -5605,6 +6091,7 @@
   {
     "carId": "car334",
     "nome": "Clio V6 24V '00",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car334",
     "immagini": [
       "car334.png",
@@ -5617,6 +6104,7 @@
   {
     "carId": "car3591",
     "nome": "Espace F1 '95",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3591",
     "immagini": [
       "car3591.png",
@@ -5631,6 +6119,7 @@
   {
     "carId": "car3567",
     "nome": "Kangoo 1.4 '01",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3567",
     "immagini": [
       "car3567.png",
@@ -5644,6 +6133,7 @@
   {
     "carId": "car3260",
     "nome": "Mégane Gr.4",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3260",
     "immagini": [
       "car3260.png",
@@ -5656,6 +6146,7 @@
   {
     "carId": "car1987",
     "nome": "Mégane R.S. Trophy '11",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1987",
     "immagini": [
       "car1987.png",
@@ -5668,6 +6159,7 @@
   {
     "carId": "car3407",
     "nome": "Mégane R.S. Trophy Safety Car",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3407",
     "immagini": [
       "car3407.png",
@@ -5680,6 +6172,7 @@
   {
     "carId": "car1563",
     "nome": "Mégane Trophy '11",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1563",
     "immagini": [
       "car1563.png",
@@ -5692,6 +6185,7 @@
   {
     "carId": "car3216",
     "nome": "R.S.01 '16",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3216",
     "immagini": [
       "car3216.png",
@@ -5704,6 +6198,7 @@
   {
     "carId": "car2188",
     "nome": "R.S.01 GT3 '16",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2188",
     "immagini": [
       "car2188.png",
@@ -5716,6 +6211,7 @@
   {
     "carId": "car3547",
     "nome": "R4 GTL '85",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3547",
     "immagini": [
       "car3547.png",
@@ -5729,6 +6225,7 @@
   {
     "carId": "car173",
     "nome": "R5 Turbo '80",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car173",
     "immagini": [
       "car173.png",
@@ -5741,6 +6238,7 @@
   {
     "carId": "car1986",
     "nome": "R8 Gordini '66",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1986",
     "immagini": [
       "car1986.png",
@@ -5753,6 +6251,7 @@
   {
     "carId": "car3603",
     "nome": "Twingo '93",
+    "marca": "Renault",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3603",
     "immagini": [
       "car3603.png",
@@ -5766,6 +6265,7 @@
   {
     "carId": "car3398",
     "nome": "CTR3 '07",
+    "marca": "RUF",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3398",
     "immagini": [
       "car3398.png",
@@ -5778,6 +6278,7 @@
   {
     "carId": "car3468",
     "nome": "RGT 4.2 '16",
+    "marca": "RUF",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3468",
     "immagini": [
       "car3468.png",
@@ -5790,6 +6291,7 @@
   {
     "carId": "car315",
     "nome": "Cobra 427 '66",
+    "marca": "Shelby",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car315",
     "immagini": [
       "car315.png",
@@ -5802,6 +6304,7 @@
   {
     "carId": "car1926",
     "nome": "Cobra Daytona Coupe '64",
+    "marca": "Shelby",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1926",
     "immagini": [
       "car1926.png",
@@ -5814,6 +6317,7 @@
   {
     "carId": "car1925",
     "nome": "G.T.350 '65",
+    "marca": "Shelby",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1925",
     "immagini": [
       "car1925.png",
@@ -5826,6 +6330,7 @@
   {
     "carId": "car3339",
     "nome": "BRZ Drift Car '17",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3339",
     "immagini": [
       "car3339.png",
@@ -5839,6 +6344,7 @@
   {
     "carId": "car3474",
     "nome": "BRZ GT300 '21",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3474",
     "immagini": [
       "car3474.png",
@@ -5851,6 +6357,7 @@
   {
     "carId": "car3354",
     "nome": "BRZ S '15",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3354",
     "immagini": [
       "car3354.png",
@@ -5863,6 +6370,7 @@
   {
     "carId": "car3506",
     "nome": "BRZ S '21",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3506",
     "immagini": [
       "car3506.png",
@@ -5876,6 +6384,7 @@
   {
     "carId": "car3413",
     "nome": "BRZ STI Sport '18",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3413",
     "immagini": [
       "car3413.png",
@@ -5888,6 +6397,7 @@
   {
     "carId": "car451",
     "nome": "Impreza 22B-STi '98",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car451",
     "immagini": [
       "car451.png",
@@ -5900,6 +6410,7 @@
   {
     "carId": "car379",
     "nome": "Impreza Coupe WRX Type R STi Ver.VI '99",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car379",
     "immagini": [
       "car379.png",
@@ -5912,6 +6423,7 @@
   {
     "carId": "car3550",
     "nome": "Impreza Rally Car '98",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3550",
     "immagini": [
       "car3550.png",
@@ -5925,6 +6437,7 @@
   {
     "carId": "car3432",
     "nome": "Impreza Sedan WRX STi '04",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3432",
     "immagini": [
       "car3432.png",
@@ -5938,6 +6451,7 @@
   {
     "carId": "car2099",
     "nome": "VIZIV GT VGT",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2099",
     "immagini": [
       "car2099.png",
@@ -5949,6 +6463,7 @@
   {
     "carId": "car2186",
     "nome": "WRX Gr.3",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2186",
     "immagini": [
       "car2186.png",
@@ -5962,6 +6477,7 @@
   {
     "carId": "car3261",
     "nome": "WRX Gr.4",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3261",
     "immagini": [
       "car3261.png",
@@ -5974,6 +6490,7 @@
   {
     "carId": "car3232",
     "nome": "WRX Gr.B Rally Car",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3232",
     "immagini": [
       "car3232.png",
@@ -5986,6 +6503,7 @@
   {
     "carId": "car3304",
     "nome": "WRX Gr.B Road Car",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3304",
     "immagini": [
       "car3304.png",
@@ -5998,6 +6516,7 @@
   {
     "carId": "car3297",
     "nome": "WRX STI Isle of Man '16",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3297",
     "immagini": [
       "car3297.png",
@@ -6010,6 +6529,7 @@
   {
     "carId": "car2153",
     "nome": "WRX STI Type S '14",
+    "marca": "Subaru",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2153",
     "immagini": [
       "car2153.png",
@@ -6022,6 +6542,7 @@
   {
     "carId": "car3372",
     "nome": "SF19 Super Formula / Honda '19",
+    "marca": "Super Formula",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3372",
     "immagini": [
       "car3372.png",
@@ -6034,6 +6555,7 @@
   {
     "carId": "car3371",
     "nome": "SF19 Super Formula / Toyota '19",
+    "marca": "Super Formula",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3371",
     "immagini": [
       "car3371.png",
@@ -6046,6 +6568,7 @@
   {
     "carId": "car3528",
     "nome": "SF23 Super Formula / Honda '23",
+    "marca": "Super Formula",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3528",
     "immagini": [
       "car3528.png",
@@ -6059,6 +6582,7 @@
   {
     "carId": "car3529",
     "nome": "SF23 Super Formula / Toyota '23",
+    "marca": "Super Formula",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3529",
     "immagini": [
       "car3529.png",
@@ -6072,6 +6596,7 @@
   {
     "carId": "car779",
     "nome": "Cappuccino '91",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car779",
     "immagini": [
       "car779.png",
@@ -6085,6 +6610,7 @@
   {
     "carId": "car3571",
     "nome": "Carry KC '12",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3571",
     "immagini": [
       "car3571.png",
@@ -6097,6 +6623,7 @@
   {
     "carId": "car3559",
     "nome": "Jimny Sierra JC '18",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3559",
     "immagini": [
       "car3559.png",
@@ -6110,6 +6637,7 @@
   {
     "carId": "car3545",
     "nome": "Jimny XC '18",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3545",
     "immagini": [
       "car3545.png",
@@ -6123,6 +6651,7 @@
   {
     "carId": "car3476",
     "nome": "SUZUKI VGT",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3476",
     "immagini": [
       "car3476.png",
@@ -6135,6 +6664,7 @@
   {
     "carId": "car3508",
     "nome": "SUZUKI VGT (Gr.3)",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3508",
     "immagini": [
       "car3508.png",
@@ -6148,6 +6678,7 @@
   {
     "carId": "car1385",
     "nome": "Swift Sport '07",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1385",
     "immagini": [
       "car1385.png",
@@ -6160,6 +6691,7 @@
   {
     "carId": "car3456",
     "nome": "Swift Sport '17",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3456",
     "immagini": [
       "car3456.png",
@@ -6172,6 +6704,7 @@
   {
     "carId": "car3480",
     "nome": "Swift Sport Gr.4",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3480",
     "immagini": [
       "car3480.png",
@@ -6184,6 +6717,7 @@
   {
     "carId": "car808",
     "nome": "V6 Escudo Pikes Peak Special '98",
+    "marca": "Suzuki",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car808",
     "immagini": [
       "car808.png",
@@ -6196,6 +6730,7 @@
   {
     "carId": "car3540",
     "nome": "Model 3 Performance '23",
+    "marca": "Tesla",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3540",
     "immagini": [
       "car3540.png",
@@ -6209,6 +6744,7 @@
   {
     "carId": "car1896",
     "nome": "Model S Signature Performance '12",
+    "marca": "Tesla",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1896",
     "immagini": [
       "car1896.png",
@@ -6221,6 +6757,7 @@
   {
     "carId": "car604",
     "nome": "2000GT '67",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car604",
     "immagini": [
       "car604.png",
@@ -6233,6 +6770,7 @@
   {
     "carId": "car3222",
     "nome": "86 GRMN '16",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3222",
     "immagini": [
       "car3222.png",
@@ -6245,6 +6783,7 @@
   {
     "carId": "car2154",
     "nome": "86 GT '15",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2154",
     "immagini": [
       "car2154.png",
@@ -6257,6 +6796,7 @@
   {
     "carId": "car3295",
     "nome": "86 GT\"Limited\" '16",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3295",
     "immagini": [
       "car3295.png",
@@ -6269,6 +6809,7 @@
   {
     "carId": "car3262",
     "nome": "86 Gr.4",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3262",
     "immagini": [
       "car3262.png",
@@ -6281,6 +6822,7 @@
   {
     "carId": "car3265",
     "nome": "86 Gr.B Rally Car",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3265",
     "immagini": [
       "car3265.png",
@@ -6293,6 +6835,7 @@
   {
     "carId": "car3494",
     "nome": "Alphard Executive Lounge '18",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3494",
     "immagini": [
       "car3494.png",
@@ -6307,6 +6850,7 @@
   {
     "carId": "car2026",
     "nome": "Aqua S '11",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2026",
     "immagini": [
       "car2026.png",
@@ -6319,6 +6863,7 @@
   {
     "carId": "car3565",
     "nome": "C-HR S '18",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3565",
     "immagini": [
       "car3565.png",
@@ -6332,6 +6877,7 @@
   {
     "carId": "car3471",
     "nome": "Celica GT-FOUR (ST205) '94",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3471",
     "immagini": [
       "car3471.png",
@@ -6344,6 +6890,7 @@
   {
     "carId": "car781",
     "nome": "Celica GT-FOUR Rally Car (ST205) '95",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car781",
     "immagini": [
       "car781.png",
@@ -6357,6 +6904,7 @@
   {
     "carId": "car3612",
     "nome": "Chaser Tourer V '97",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3612",
     "immagini": [
       "car3612.png",
@@ -6370,6 +6918,7 @@
   {
     "carId": "car63",
     "nome": "Corolla Levin 1600GT APEX (AE86) '83",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car63",
     "immagini": [
       "car63.png",
@@ -6382,6 +6931,7 @@
   {
     "carId": "car3401",
     "nome": "Crown Athlete G '13",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3401",
     "immagini": [
       "car3401.png",
@@ -6394,6 +6944,7 @@
   {
     "carId": "car3408",
     "nome": "Crown Athlete G Safety Car",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3408",
     "immagini": [
       "car3408.png",
@@ -6406,6 +6957,7 @@
   {
     "carId": "car2080",
     "nome": "FT-1",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2080",
     "immagini": [
       "car2080.png",
@@ -6418,6 +6970,7 @@
   {
     "carId": "car2106",
     "nome": "FT-1 VGT",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2106",
     "immagini": [
       "car2106.png",
@@ -6430,6 +6983,7 @@
   {
     "carId": "car2187",
     "nome": "FT-1 VGT (Gr.3)",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2187",
     "immagini": [
       "car2187.png",
@@ -6442,6 +6996,7 @@
   {
     "carId": "car3535",
     "nome": "GR Corolla MORIZO Edition '22",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3535",
     "immagini": [
       "car3535.png",
@@ -6455,6 +7010,7 @@
   {
     "carId": "car3367",
     "nome": "GR Supra RZ '19",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3367",
     "immagini": [
       "car3367.png",
@@ -6467,6 +7023,7 @@
   {
     "carId": "car3418",
     "nome": "GR Supra RZ '20",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3418",
     "immagini": [
       "car3418.png",
@@ -6479,6 +7036,7 @@
   {
     "carId": "car3399",
     "nome": "GR Supra Race Car '19",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3399",
     "immagini": [
       "car3399.png",
@@ -6491,6 +7049,7 @@
   {
     "carId": "car3352",
     "nome": "GR Supra Racing Concept '18",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3352",
     "immagini": [
       "car3352.png",
@@ -6503,6 +7062,7 @@
   {
     "carId": "car3451",
     "nome": "GR Yaris RZ \"High performance\" '20",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3451",
     "immagini": [
       "car3451.png",
@@ -6515,9 +7075,11 @@
   {
     "carId": "car3499",
     "nome": "GR010 HYBRID '21",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3499",
     "immagini": [
       "car3499.png",
+      "car3499_1_01-DM9GVxhb.jpg",
       "car3499_1_02-CSZ_4ApH.jpg",
       "car3499_2_01-YHgjW8a2.jpg",
       "car3499_2_02-B5igPLr-.jpg",
@@ -6527,6 +7089,7 @@
   {
     "carId": "car3481",
     "nome": "GR86 RZ '21",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3481",
     "immagini": [
       "car3481.png",
@@ -6539,6 +7102,7 @@
   {
     "carId": "car116",
     "nome": "GT-One (TS020) '99",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car116",
     "immagini": [
       "car116.png",
@@ -6552,6 +7116,7 @@
   {
     "carId": "car3554",
     "nome": "Hiace Van DX '16",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3554",
     "immagini": [
       "car3554.png",
@@ -6565,6 +7130,7 @@
   {
     "carId": "car3534",
     "nome": "Himedic '21",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3534",
     "immagini": [
       "car3534.png",
@@ -6578,6 +7144,7 @@
   {
     "carId": "car3584",
     "nome": "Land Cruiser FJ40V '74",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3584",
     "immagini": [
       "car3584.png",
@@ -6591,6 +7158,7 @@
   {
     "carId": "car207",
     "nome": "MR2 GT-S '97",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car207",
     "immagini": [
       "car207.png",
@@ -6603,6 +7171,7 @@
   {
     "carId": "car3611",
     "nome": "Mark II Tourer V '97",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3611",
     "immagini": [
       "car3611.png",
@@ -6616,6 +7185,7 @@
   {
     "carId": "car1537",
     "nome": "Prius G '09",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1537",
     "immagini": [
       "car1537.png",
@@ -6628,6 +7198,7 @@
   {
     "carId": "car3583",
     "nome": "RAV4 Adventure '20",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3583",
     "immagini": [
       "car3583.png",
@@ -6641,6 +7212,7 @@
   {
     "carId": "car2144",
     "nome": "S-FR '15",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2144",
     "immagini": [
       "car2144.png",
@@ -6653,6 +7225,7 @@
   {
     "carId": "car2178",
     "nome": "S-FR Racing Concept '16",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2178",
     "immagini": [
       "car2178.png",
@@ -6664,6 +7237,7 @@
   {
     "carId": "car1044",
     "nome": "Sports 800 '65",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1044",
     "immagini": [
       "car1044.png",
@@ -6676,6 +7250,7 @@
   {
     "carId": "car810",
     "nome": "Sprinter Trueno 1600GT APEX (AE86) '83",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car810",
     "immagini": [
       "car810.png",
@@ -6688,6 +7263,7 @@
   {
     "carId": "car345",
     "nome": "Sprinter Trueno 1600GT APEX (S.Shigeno Version)",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car345",
     "immagini": [
       "car345.png",
@@ -6700,6 +7276,7 @@
   {
     "carId": "car843",
     "nome": "Supra 3.0GT Turbo A '88",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car843",
     "immagini": [
       "car843.png",
@@ -6712,6 +7289,7 @@
   {
     "carId": "car1470",
     "nome": "Supra GT500 '97",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1470",
     "immagini": [
       "car1470.png",
@@ -6724,6 +7302,7 @@
   {
     "carId": "car82",
     "nome": "Supra RZ '97",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car82",
     "immagini": [
       "car82.png",
@@ -6736,6 +7315,7 @@
   {
     "carId": "car2101",
     "nome": "TS030 Hybrid '12",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2101",
     "immagini": [
       "car2101.png",
@@ -6748,6 +7328,7 @@
   {
     "carId": "car3312",
     "nome": "TS050 - Hybrid '16",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3312",
     "immagini": [
       "car3312.png",
@@ -6760,6 +7341,7 @@
   {
     "carId": "car3368",
     "nome": "Tundra TRD Pro '19",
+    "marca": "Toyota",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3368",
     "immagini": [
       "car3368.png",
@@ -6772,6 +7354,7 @@
   {
     "carId": "car187",
     "nome": "Tuscan Speed 6 '00",
+    "marca": "TVR",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car187",
     "immagini": [
       "car187.png",
@@ -6784,6 +7367,7 @@
   {
     "carId": "car3305",
     "nome": "Beetle Gr.3",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3305",
     "immagini": [
       "car3305.png",
@@ -6796,6 +7380,7 @@
   {
     "carId": "car2098",
     "nome": "GTI Roadster VGT",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2098",
     "immagini": [
       "car2098.png",
@@ -6808,6 +7393,7 @@
   {
     "carId": "car2124",
     "nome": "GTI Supersport VGT",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2124",
     "immagini": [
       "car2124.png",
@@ -6819,6 +7405,7 @@
   {
     "carId": "car3403",
     "nome": "Golf I GTI '83",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3403",
     "immagini": [
       "car3403.png",
@@ -6831,6 +7418,7 @@
   {
     "carId": "car2141",
     "nome": "Golf VII GTI '14",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2141",
     "immagini": [
       "car2141.png",
@@ -6843,6 +7431,7 @@
   {
     "carId": "car3511",
     "nome": "ID.R '19",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3511",
     "immagini": [
       "car3511.png",
@@ -6856,6 +7445,7 @@
   {
     "carId": "car2155",
     "nome": "Polo GTI '14",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2155",
     "immagini": [
       "car2155.png",
@@ -6868,6 +7458,7 @@
   {
     "carId": "car1671",
     "nome": "Sambabus Typ 2 '62",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1671",
     "immagini": [
       "car1671.png",
@@ -6880,6 +7471,7 @@
   {
     "carId": "car3231",
     "nome": "Scirocco Gr.4",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3231",
     "immagini": [
       "car3231.png",
@@ -6892,6 +7484,7 @@
   {
     "carId": "car1773",
     "nome": "Scirocco R '10",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1773",
     "immagini": [
       "car1773.png",
@@ -6904,6 +7497,7 @@
   {
     "carId": "car1778",
     "nome": "Volkswagen 1200 '66",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car1778",
     "immagini": [
       "car1778.png",
@@ -6916,6 +7510,7 @@
   {
     "carId": "car2192",
     "nome": "Volkswagen GTI VGT (Gr.3)",
+    "marca": "Volkswagen",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2192",
     "immagini": [
       "car2192.png",
@@ -6928,6 +7523,7 @@
   {
     "carId": "car3549",
     "nome": "240 SE Estate '93",
+    "marca": "Volvo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3549",
     "immagini": [
       "car3549.png",
@@ -6941,6 +7537,7 @@
   {
     "carId": "car3482",
     "nome": "V40 T5 R-Design '13",
+    "marca": "Volvo",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3482",
     "immagini": [
       "car3482.png",
@@ -6954,6 +7551,7 @@
   {
     "carId": "car3423",
     "nome": "Wicked Fabrication GT 51",
+    "marca": "Wicked Fabrication",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3423",
     "immagini": [
       "car3423.png",
@@ -6966,6 +7564,7 @@
   {
     "carId": "car3599",
     "nome": "SU7 Ultra '25",
+    "marca": "Xiaomi",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3599",
     "immagini": [
       "car3599.png",
@@ -6979,6 +7578,7 @@
   {
     "carId": "car3602",
     "nome": "U9 '24",
+    "marca": "Yangwang",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3602",
     "immagini": [
       "car3602.png",
@@ -6992,6 +7592,7 @@
   {
     "carId": "car2122",
     "nome": "IsoRivolta Zagato VGT",
+    "marca": "Zagato",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car2122",
     "immagini": [
       "car2122.png",
@@ -7003,6 +7604,7 @@
   {
     "carId": "car3542",
     "nome": "Škoda VGT",
+    "marca": "Škoda",
     "link": "https://www.gran-turismo.com/it/gt7/carlist/id/car3542",
     "immagini": [
       "car3542.png",

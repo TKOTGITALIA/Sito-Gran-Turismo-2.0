@@ -397,7 +397,31 @@ body {
   color: var(--accent-red, #ff2a2a);
 }
 
-/* Responsiveness per dispositivi mobili */
+html, body {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#modalContent,
+.modal-content,
+#carModal,
+#carModal > div {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+#modalContent::-webkit-scrollbar,
+.modal-content::-webkit-scrollbar,
+#carModal::-webkit-scrollbar,
+#carModal > div::-webkit-scrollbar {
+  display: none;
+}
+
 @media (max-width: 768px) {
   .zoom-btn.prev { left: 10px; }
   .zoom-btn.next { right: 10px; }
